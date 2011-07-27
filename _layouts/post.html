@@ -1,0 +1,11 @@
+---
+layout: page
+nav_item: blog
+---
+<div class="post">
+  <a href="{{page.url}}"><h2>{{page.title}}</h2></a>
+  <div class="date">{{page.date | date_to_long_string}}</div>
+  <div>
+    {{content}}
+  </div>
+</div>

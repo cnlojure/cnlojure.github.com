@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>
+    {% if page.title %}
+      China Clojure Users Group &raquo; {{ page.title }}
+    {% else %}
+      China Clojure Users Group
+    {% endif %}
+  </title>
+  <meta name="keywords" content="Clojure, China, Chinese, user group">
+  <meta name="description" content="China Clojure users community.">
+  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+  <!--[if lt IE 9]>
+  <script src="/js/modernizr.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <header>
+    <ul id="top-nav">
+      {% if page.nav_item == 'home' %}
+        <li class="selected">
+      {% else %}
+        <li>
+      {% endif %}
+        <a href="/">Home</a></li>
+    </ul>
+    <a href="/"><h1>(clojure :chinese-users)</h1></a>
+  </header>
+  <div id="page-container">
+      {{ content }}
+  </div>
+  <footer>&copy;2011, <a href="http://cnlojure.org">cnlojure.org</a>. All Rights Reserved.</footer>
+<body>

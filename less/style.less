@@ -1,0 +1,183 @@
+@bg-color: #dcdccc;
+@text-color: #3f3f3f;
+@light-text-color: #5f5f5f;
+@image-border-color: #8f8f8f;
+@nav-selected-bg-color: #2d6ebe;
+@page-width: 900px;
+@link-color: #0f4d92;
+@visited-link-color: #336699;
+@code-bg-color: #d8deec;
+@code-color: #299bb2;
+@pyg-p-color: #4c7073;
+@pyg-k-color: #f0dfaf;
+@pyg-nv-color: #dcdccc;
+@pyg-nf-color: #8cd0d3;
+
+// css3 border-radius ---- rouned corners
+.css3-border-radius (@radius: 5px) {
+     -moz-border-radius: @radius; // Firefox
+     -webkit-border-radius: @radius; // Webkit
+     -o-border-radius: @radius; // Opera
+     border-radius: @radius; //standard
+}
+
+//css3 box-shadow
+.css3-box-shadow (@params: 10px 10px 5px #888) {
+    -moz-box-shadow: @params;
+    -webkit-box-shadow: @params;
+    box-shadow: @params;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font: normal 11pt Verdana,Arial,'Bitstream Vera Sans',Helvetica,sans-serif;
+    line-height: 1.4em;
+    background: @bg-color;
+    color: @text-color;
+
+    > header {
+        margin: 0px;
+        padding: 0 6px;
+        background: @text-color;
+        color: @bg-color;
+        .css3-box-shadow(0 0 15px #333);
+        line-height: 26pt;
+
+        a, a:active, a:hover, a:visited {
+            color: @bg-color;
+            text-decoration: none;
+        }
+
+        h1 {
+            margin: 0px;
+            padding: 0px;
+            font-size: 18pt;
+            font-family: monospace;
+            font-weight: normal;
+        }
+    }
+
+    > footer {
+        margin: 20px 0;
+        text-align: center;
+        color: @light-text-color;
+        font-size: small;
+    }
+}
+
+#page-container {
+    width: @page-width;
+    margin-left: auto;
+    margin-right: auto;
+    .css3-border-radius(0px 0px 6px 6px);
+    background: #fff;
+    .css3-box-shadow(0 0 15px #333);
+    padding: 1em;
+
+    h2 {
+        font-size: 15pt;
+    }
+
+    h3 {
+        font-size: 14pt;
+    }
+
+    h4 {
+        font-size: 13pt;
+    }
+
+    h5 {
+        font-size: 12pt;
+    }
+
+    h6 {
+        font-size: 11pt;
+    }
+
+    p {
+        padding: 0px;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    img {
+        border: 1px solid @light-text-color;
+        padding: 2px;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+ul#top-nav {
+    list-style: none;
+    font-size: 14pt;
+    text-shadow: 0 -1px 0 #333;
+    float: right;
+    margin: 0px;
+
+    li {
+        display: inline;
+        padding: 0;
+        margin: 0;
+    }
+
+    a {
+        text-decoration: none;
+        color: @bg-color;
+        padding: 5pt 0.8em;
+        &:hover,&:active {
+            background: @light-text-color;
+            text-decoration: none;
+        }
+    }
+
+    .selected a { background: @light-text-color; }
+}
+
+ul#posts {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+        padding: 0.5em;
+
+        h2 {
+            margin: 0;
+            padding: 0.5em 0;
+        }
+    }
+}
+
+a{
+    color: @link-color;
+    text-decoration: none;
+    &:hover,&:active {
+        color: @link-color;
+        text-decoration: underline;
+    }
+    &:visited {
+        color: @visited-link-color;
+    }
+}
+
+pre {
+    background-color: #3f3f3f;
+    color: #dcdccc;
+    padding: 0.5em 0.6em;
+    .css3-border-radius(4px);
+}
+
+code {
+    font-size: 10pt;
+    .p { color: @pyg-p-color}
+    .k { color: @pyg-k-color}
+    .nv { color: @pyg-nv-color}
+    .nf { color: @pyg-nf-color}
+}
+
+img#clj-logo {
+    border: 0px none;
+    display: block;
+    float: right;
+}
