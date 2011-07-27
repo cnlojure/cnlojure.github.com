@@ -11,7 +11,7 @@ nav_item: home
 `cn-clojure` 是由中国 Clojure 用户自发创立的社区，致力于促进 Clojure 中文社区的交流，让所有中文 Clojure 用户有一个共同的家园。
 
 ## 近期活动
-我们计划在长三角地区组织一次 cn-clojure 的线下聚会并发展成为周期性的技术交流活动，非常希望感兴趣的朋友参加，如果能提供帮助则更好。由于是第一次活动，我们需要了解大致有多少人会参加，以及大家对地点的偏好。如果你有意参加，请填写<a href="http://www.diaochapai.com/survey548296">这份在线调查表</a>。谢谢。
+我们计划在长三角地区组织一次 cn-clojure 的线下聚会并发展成为周期性的技术交流活动，非常希望感兴趣的朋友参加，如果能提供帮助则更好。由于是第一次活动，我们需要了解大致有多少人会参加，以及大家对地点的偏好。如果你有意参加，请填写<a href="http://www.diaochapai.com/survey548296">这份在线调查表</a>，同时也请加入到我们的 Google Group 以便接收活动通知。谢谢。
 
 ## Google Group
 [cn-clojure google group](http://groups.google.com/group/cn-clojure)
