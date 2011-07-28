@@ -1,0 +1,3 @@
+This is the source code for the Chinese Clojure users community site.
+
+Install LESS, Jekyll, and Rake first, and then run rake to generate the site.

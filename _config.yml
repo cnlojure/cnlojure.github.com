@@ -1,5 +1,5 @@
 safe: true
 lsi: false
 pygments: true
-exclude: less bin deploy Rakefile
+exclude: less bin deploy Rakefile README
 url: http://cnlojure
