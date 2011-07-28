@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 首页
 nav_item: home
 ---
 <a href="http://cnlojure.org"><img src="clojure-icon.gif"
