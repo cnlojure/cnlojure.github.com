@@ -26,6 +26,9 @@ Clojure 文档。
 [reddit.clj](https://github.com/sunng87/reddit.clj/)
 : Reddit的clojure客户端库。
 
+[geohash](https://bitbucket.org/sunng/clojure-geohash)
+: geohash编解码库
+
 ### 商业项目
 
 [Trakr](https://trakrapp.com)
