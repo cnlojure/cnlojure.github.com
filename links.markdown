@@ -29,6 +29,9 @@ Clojure 文档。
 [geohash](https://bitbucket.org/sunng/clojure-geohash)
 : geohash编解码库
 
+[cscheme](https://github.com/killme2008/cscheme)
+: clojure实现的scheme解释器
+
 ### 商业项目
 
 [Trakr](https://trakrapp.com)
