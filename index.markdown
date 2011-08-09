@@ -12,8 +12,7 @@ nav_item: home
 
 ## 近期活动
 
-我们的第一次线下聚会于8月6日在上海成功举行。感谢大众点评网的朋友提供活
-动场地。以下是部分讲座的幻灯片:
+我们的第一次线下聚会于8月6日在上海成功举行。感谢大众点评网的朋友提供活动场地。以下是部分讲座的幻灯片:
 
 * [Clojure概览](http://www.slideshare.net/killme2008/clojure-8785955) 庄晓丹 (淘宝)
 * [Clojure开发的生命周期管理](http://www.slideshare.net/sunng87/clojure-cnclojuremeetup) 孙宁
