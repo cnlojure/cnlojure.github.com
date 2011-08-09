@@ -11,7 +11,14 @@ nav_item: home
 `cn-clojure` 是由中国 Clojure 用户自发创立的社区，致力于促进 Clojure 中文社区的交流，让所有中文 Clojure 用户有一个共同的家园。
 
 ## 近期活动
-我们计划在长三角地区组织一次 cn-clojure 的线下聚会并发展成为周期性的技术交流活动，非常希望感兴趣的朋友参加，如果能提供帮助则更好。由于是第一次活动，我们需要了解大致有多少人会参加，以及大家对地点的偏好。如果你有意参加，请填写<a href="http://www.diaochapai.com/survey548296">这份在线调查表</a>，同时也请加入到我们的 Google Group 以便接收活动通知。谢谢。
+
+我们的第一次线下聚会于8月6日在上海成功举行。感谢大众点评网的朋友提供活
+动场地。以下是部分讲座的幻灯片:
+
+* [Clojure概览](http://www.slideshare.net/killme2008/clojure-8785955) 庄晓丹 (淘宝)
+* [Clojure开发的生命周期管理](http://www.slideshare.net/sunng87/clojure-cnclojuremeetup) 孙宁
+* [Clojure Web Development](http://www.slideshare.net/jiangxhong/clojure-web-development-8800348) 江宏（OnyCloud）
+* [How to Build an HTML5 Game in Half a day](http://www.slideshare.net/jiangxhong/how-to-build-an-html5-game-in-half-a-day) 吴哲（OnyCloud）
 
 ## Google Group
 [cn-clojure google group](http://groups.google.com/group/cn-clojure)
