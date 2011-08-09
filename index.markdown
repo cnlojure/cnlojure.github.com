@@ -18,6 +18,7 @@ nav_item: home
 * [Clojure开发的生命周期管理](http://www.slideshare.net/sunng87/clojure-cnclojuremeetup) 孙宁
 * [Clojure Web Development](http://www.slideshare.net/jiangxhong/clojure-web-development-8800348) 江宏（OnyCloud）
 * [How to Build an HTML5 Game in Half a day](http://www.slideshare.net/jiangxhong/how-to-build-an-html5-game-in-half-a-day) 吴哲（OnyCloud）
+* [大众点评网新架构](http://www.slideshare.net/killme2008/ss-8805669) 苗向彬 (大众点评网)
 
 ## Google Group
 [cn-clojure google group](http://groups.google.com/group/cn-clojure)
