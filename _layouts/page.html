@@ -1,40 +1,43 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <title>
-    {% if page.title %}
+  <head>
+	<meta charset="utf-8" />
+	<title>
+      {% if page.title %}
       China Clojure Users Group &raquo; {{ page.title }}
-    {% else %}
+      {% else %}
       China Clojure Users Group
-    {% endif %}
-  </title>
-  <meta name="keywords" content="Clojure, China, Chinese, user group">
-  <meta name="description" content="China Clojure users community.">
-  <link href='http://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
-  <link href="/css/style.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-  <div id="header">
-    <ul id="top-nav">
-      {% if page.nav_item == 'home' %}
-        <li class="selected">
-      {% else %}
-        <li>
       {% endif %}
-        <a href="/">首页</a></li>
-      {% if page.nav_item == 'links' %}
+	</title>
+	<meta name="keywords" content="Clojure, China, Chinese, user group">
+	<meta name="description" content="China Clojure users community.">
+	<link href='http://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
+	<link href="/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+	<div id="header">
+      <ul id="top-nav">
+		{% if page.nav_item == 'home' %}
         <li class="selected">
-      {% else %}
+		  {% else %}
         <li>
-      {% endif %}
-        <a href="/links.html">资源链接</a></li>
-    </ul>
-    <a href="/"><h1>(clojure :chinese-users)</h1></a>
-  </div>
-  <div id="page-container">
+		  {% endif %}
+          <a href="/">首页</a></li>
+		{% if page.nav_item == 'links' %}
+        <li class="selected">
+		  {% else %}
+        <li>
+		  {% endif %}
+          <a href="/links.html">资源链接</a></li>
+      </ul>
+      <a href="/"><h1>(clojure :chinese-users)</h1></a>
+	</div>
+	<div id="page-container">
       {{ content }}
-  </div>
-  <div id="footer">&copy;2011, <a href="http://cnlojure.org">cnlojure.org</a>. All Rights Reserved.</div>
-
-<body>
+	</div>
+	<div id="footer">&copy;2011, <a href="http://cnlojure.org">cnlojure.org</a>. All Rights Reserved.</div>
+	<div id="stats">
+	  <script type="text/javascript" src="http://js.tongji.linezing.com/2685673/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/2685673/tongji.gif"/></a></noscript>
+	</div>
+  </body>
+</html>
