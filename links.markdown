@@ -16,9 +16,6 @@ nav_item: links
 [clojure-control](https://github.com/killme2008/clojure-control)
 : clojure-control 是一个通过 ssh 进行远程系统管理的 DSL 库。
 
-[lein-control](https://github.com/sunng87/lein-control)
-: lein-control 是clojure-control在clojure构建工具leiningen中的插件。
-
 [R2](https://github.com/onycloud/r2)
 : R2 是一个用于 Jabber 多人聊天室的聊天机器人。可以用于快速查看
 Clojure 文档。
@@ -28,6 +25,12 @@ Clojure 文档。
 
 [geohash](https://bitbucket.org/sunng/clojure-geohash)
 : geohash编解码库
+
+[clojalk](https://github.com/sunng87/clojalk)
+: clojalk 用clojure克隆的beanstalkd任务队列
+
+[slacker](https://github.com/sunng87/slacker)
+: clojure远程调用框架
 
 [cscheme](https://github.com/killme2008/cscheme)
 : clojure实现的scheme解释器

@@ -23,3 +23,6 @@ nav_item: home
 ## Google Group
 [cn-clojure google group](http://groups.google.com/group/cn-clojure)
 是我们发起讨论的主要地方，欢迎对clojure、函数式语言或相关技术感兴趣的朋友加入。不方便翻墙的用户也可以通过发邮件到 [cn-clojure+subscribe@googlegroups.com](mailto:cn-clojure+subscribe@googlegroups.com) 加入。
+
+## IRC
+加入[clojure中文IRC频道](irc://irc.freenode.net/#clojure-cn)的讨论。
