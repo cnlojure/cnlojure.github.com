@@ -37,7 +37,9 @@ end
 
 "Generate CSS files from LESS source."
 task :less => css
-
+task :open do
+	 sh "ruby clojure_toolbox.rb"
+end
 task :site => :less do
   sh 'jekyll'
 end
@@ -49,3 +51,4 @@ end
 task :deploy => :site do
   sh 'bin/deploy'
 end
+
