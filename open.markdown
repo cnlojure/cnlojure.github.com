@@ -5,674 +5,674 @@ nav_item: open
 ---
 ## Web Client Libraries
 
-[clj-http ](http://clojure-libraries.appspot.com/show/32033)
-[http.async.client ](http://clojure-libraries.appspot.com/show/28015)
-[clj-tagsoup ](http://clojure-libraries.appspot.com/show/27024)
-[clj-oauth ](http://clojure-libraries.appspot.com/show/114009)
+[&nbsp;&raquo;clj-http ](https://github.com/mmcgrana/clj-http)
+[&nbsp;&raquo;http.async.client ](http://github.com/neotyk/http.async.client/)
+[&nbsp;&raquo;clj-tagsoup ](https://github.com/nathell/clj-tagsoup)
+[&nbsp;&raquo;clj-oauth ](https://github.com/mattrepl/clj-oauth)
 
 ## File Formats
 
-[ArmageDOM ](http://clojure-libraries.appspot.com/show/30001)
-[Docjure ](http://clojure-libraries.appspot.com/show/29039)
-[clj-yaml ](http://clojure-libraries.appspot.com/show/30039)
-[csvlib ](http://clojure-libraries.appspot.com/show/30040)
-[clj-json ](http://clojure-libraries.appspot.com/show/27058)
-[clj-plaza ](http://clojure-libraries.appspot.com/show/37002)
-[Cheshire ](http://clojure-libraries.appspot.com/show/58001)
-[Bearable ](http://clojure-libraries.appspot.com/show/78003)
-[docjure ](http://clojure-libraries.appspot.com/show/95012)
-[clojure-csv ](http://clojure-libraries.appspot.com/show/113010)
+[&nbsp;&raquo;ArmageDOM ](https://github.com/pepijndevos/ArmageDOM)
+[&nbsp;&raquo;Docjure ](https://github.com/ative/docjure)
+[&nbsp;&raquo;clj-yaml ](https://github.com/lancepantz/clj-yaml)
+[&nbsp;&raquo;csvlib ](https://bitbucket.org/tebeka/csvlib/src)
+[&nbsp;&raquo;clj-json ](https://github.com/mmcgrana/clj-json)
+[&nbsp;&raquo;clj-plaza ](https://github.com/antoniogarrote/clj-plaza)
+[&nbsp;&raquo;Cheshire ](https://github.com/dakrone/cheshire)
+[&nbsp;&raquo;Bearable ](https://github.com/jhowarth/bearable)
+[&nbsp;&raquo;docjure ](https://github.com/ative/docjure)
+[&nbsp;&raquo;clojure-csv ](https://github.com/davidsantiago/clojure-csv)
 
 ## Ring Security
 
-[ring-anti-forgery](https://github.com/weavejester/ring-anti-forgery)
+[&nbsp;&raquo;ring-anti-forgery](https://github.com/weavejester/ring-anti-forgery)
 
 ## Asynchronous HTTP
 
-[Aleph](https://github.com/ztellman/aleph)
+[&nbsp;&raquo;Aleph](https://github.com/ztellman/aleph)
 
 ## Web Server Libraries
 
-[clojurejs ](http://clojure-libraries.appspot.com/show/30007)
-[App Engine Magic ](http://clojure-libraries.appspot.com/show/27010)
-[Slice ](http://clojure-libraries.appspot.com/show/27012)
-[Hiccup-Bridge ](http://clojure-libraries.appspot.com/show/27014)
-[funkyweb ](http://clojure-libraries.appspot.com/show/32009)
-[form-dot-clj ](http://clojure-libraries.appspot.com/show/28021)
-[pour ](http://clojure-libraries.appspot.com/show/29014)
-[Conjure ](http://clojure-libraries.appspot.com/show/30017)
-[ring ](http://clojure-libraries.appspot.com/show/27019)
-[fleet ](http://clojure-libraries.appspot.com/show/32017)
-[Sandbar ](http://clojure-libraries.appspot.com/show/29025)
-[ring-basic-authentication ](http://clojure-libraries.appspot.com/show/29026)
-[Gaka ](http://clojure-libraries.appspot.com/show/30018)
-[ring-httpcore-adpater ](http://clojure-libraries.appspot.com/show/28040)
-[ring-mongrel2-adapter ](http://clojure-libraries.appspot.com/show/29047)
-[ring-netty-adapter ](http://clojure-libraries.appspot.com/show/29048)
-[core.memoize](http://clojure-libraries.appspot.com/show/202001)
-[core.cache](http://clojure-libraries.appspot.com/show/197004)
-[drift-db](http://clojure-libraries.appspot.com/show/196004)
-[Tentacles](http://clojure-libraries.appspot.com/show/198005)
-[zookeeper-clj](http://clojure-libraries.appspot.com/show/195003)
-[Monotony](http://clojure-libraries.appspot.com/show/200002)
-[doric](http://clojure-libraries.appspot.com/show/199001)
-[fughetta](http://clojure-libraries.appspot.com/show/198002)
-[cd-client](http://clojure-libraries.appspot.com/show/193002)
-[Avout](http://clojure-libraries.appspot.com/show/188003)
-[quartz-clj](http://clojure-libraries.appspot.com/show/190001)
-[knockbox](http://clojure-libraries.appspot.com/show/187001)
-[fn.trace](http://clojure-libraries.appspot.com/show/186003)
-[clojure-refactoring](http://clojure-libraries.appspot.com/show/180006)
-[clj-vorbis](http://clojure-libraries.appspot.com/show/183002)
-[clj-authsub](http://clojure-libraries.appspot.com/show/180003)
-[Google Talk Clojure REPL](http://clojure-libraries.appspot.com/show/180002)
-[tools.trace](http://clojure-libraries.appspot.com/show/184002)
-[medusa](http://clojure-libraries.appspot.com/show/181002)
-[stevedore](http://clojure-libraries.appspot.com/show/182001)
+[&nbsp;&raquo;clojurejs ](https://github.com/kriyative/clojurejs)
+[&nbsp;&raquo;App Engine Magic ](https://github.com/gcv/appengine-magic)
+[&nbsp;&raquo;Slice ](https://github.com/scottjad/slice)
+[&nbsp;&raquo;Hiccup-Bridge ](https://github.com/hozumi/hiccup-bridge)
+[&nbsp;&raquo;funkyweb ](https://github.com/pmh/funkyweb)
+[&nbsp;&raquo;form-dot-clj ](http://github.com/alienscience/form-dot-clj)
+[&nbsp;&raquo;pour ](https://github.com/Kaali/pour)
+[&nbsp;&raquo;Conjure ](https://github.com/macourtney/Conjure)
+[&nbsp;&raquo;ring ](https://github.com/mmcgrana/ring)
+[&nbsp;&raquo;fleet ](https://github.com/Flamefork/fleet)
+[&nbsp;&raquo;Sandbar ](https://github.com/brentonashworth/sandbar)
+[&nbsp;&raquo;ring-basic-authentication ](https://github.com/remvee/ring-basic-authentication)
+[&nbsp;&raquo;Gaka ](https://github.com/briancarper/gaka)
+[&nbsp;&raquo;ring-httpcore-adpater ](https://github.com/mmcgrana/ring-httpcore-adapter)
+[&nbsp;&raquo;ring-mongrel2-adapter ](https://github.com/mikejs/ring-mongrel2-adapter)
+[&nbsp;&raquo;ring-netty-adapter ](https://github.com/datskos/ring-netty-adapter)
+[&nbsp;&raquo;core.memoize](https://github.com/clojure/core.memoize)
+[&nbsp;&raquo;core.cache](https://github.com/clojure/core.cache)
+[&nbsp;&raquo;drift-db](https://github.com/macourtney/drift-db)
+[&nbsp;&raquo;Tentacles](https://github.com/Raynes/tentacles)
+[&nbsp;&raquo;zookeeper-clj](https://github.com/liebke/zookeeper-clj)
+[&nbsp;&raquo;Monotony](https://github.com/aredington/monotony)
+[&nbsp;&raquo;doric](https://github.com/joegallo/doric)
+[&nbsp;&raquo;fughetta](https://github.com/Sebastiansen/fughetta)
+[&nbsp;&raquo;cd-client](https://github.com/jafingerhut/cd-client)
+[&nbsp;&raquo;Avout](http://avout.io/)
+[&nbsp;&raquo;quartz-clj](https://github.com/mdpendergrass/quartz-clj)
+[&nbsp;&raquo;knockbox](https://github.com/reiddraper/knockbox)
+[&nbsp;&raquo;fn.trace](https://github.com/weissjeffm/fn.trace)
+[&nbsp;&raquo;clojure-refactoring](https://github.com/joodie/clojure-refactoring)
+[&nbsp;&raquo;clj-vorbis](https://github.com/bagucode/clj-vorbis)
+[&nbsp;&raquo;clj-authsub](https://github.com/joodie/clj-authsub)
+[&nbsp;&raquo;Google Talk Clojure REPL](https://github.com/tacticiankerala/Google-Talk-Clojure-REPL-)
+[&nbsp;&raquo;tools.trace](https://github.com/clojure/tools.trace)
+[&nbsp;&raquo;medusa](https://github.com/amitrathore/medusa)
+[&nbsp;&raquo;stevedore](https://github.com/pallet/stevedore)
 
 ## Text Search
 
-[Clucy](https://github.com/weavejester/clucy)
+[&nbsp;&raquo;Clucy](https://github.com/weavejester/clucy)
 
 ## Macros
 
-[syntax-rules](https://github.com/qbg/syntax-rules)
-[thread-expr](https://github.com/pallet/thread-expr)
-[tools.macro](https://github.com/clojure/tools.macro)
+[&nbsp;&raquo;syntax-rules](https://github.com/qbg/syntax-rules)
+[&nbsp;&raquo;thread-expr](https://github.com/pallet/thread-expr)
+[&nbsp;&raquo;tools.macro](https://github.com/clojure/tools.macro)
 
 ## Ring Adapters
 
-[ring-httpcore-adapter](https://github.com/mmcgrana/ring-httpcore-adapter)
-[ring-mongrel2-adapter](https://github.com/mikejs/ring-mongrel2-adapter)
-[ring-netty-adapter](https://github.com/datskos/ring-netty-adapter)
+[&nbsp;&raquo;ring-httpcore-adapter](https://github.com/mmcgrana/ring-httpcore-adapter)
+[&nbsp;&raquo;ring-mongrel2-adapter](https://github.com/mikejs/ring-mongrel2-adapter)
+[&nbsp;&raquo;ring-netty-adapter](https://github.com/datskos/ring-netty-adapter)
 
 ## Javascript Generation
 
-[Scriptjure](https://github.com/arohner/scriptjure)
-[clojurejs](https://github.com/kriyative/clojurejs)
+[&nbsp;&raquo;Scriptjure](https://github.com/arohner/scriptjure)
+[&nbsp;&raquo;clojurejs](https://github.com/kriyative/clojurejs)
 
 ## Concurrency
 
-[die-geister ](http://clojure-libraries.appspot.com/show/158002)
-[medusa ](http://clojure-libraries.appspot.com/show/181002)
-[Avout ](http://clojure-libraries.appspot.com/show/188003)
+[&nbsp;&raquo;die-geister ](https://github.com/hiredman/die-geister)
+[&nbsp;&raquo;medusa ](https://github.com/amitrathore/medusa)
+[&nbsp;&raquo;Avout ](http://avout.io/)
 
 ## Emacs Integration
 
-[swank-clojure](https://github.com/technomancy/swank-clojure)
+[&nbsp;&raquo;swank-clojure](https://github.com/technomancy/swank-clojure)
 
 ## Template Languages
 
-[Enlive](https://github.com/cgrand/enlive)
-[Fleet](https://github.com/Flamefork/fleet)
-[Hiccup](https://github.com/weavejester/hiccup)
-[slice](https://github.com/scottjad/slice)
+[&nbsp;&raquo;Enlive](https://github.com/cgrand/enlive)
+[&nbsp;&raquo;Fleet](https://github.com/Flamefork/fleet)
+[&nbsp;&raquo;Hiccup](https://github.com/weavejester/hiccup)
+[&nbsp;&raquo;slice](https://github.com/scottjad/slice)
 
 ## Code Generation
 
-[Slamhound](https://github.com/technomancy/slamhound)
+[&nbsp;&raquo;Slamhound](https://github.com/technomancy/slamhound)
 
 ## CouchDB Clients
 
-[Clutch](https://github.com/ashafa/clutch)
+[&nbsp;&raquo;Clutch](https://github.com/ashafa/clutch)
 
 ## Utility
 
-[Syntax-Rules ](http://clojure-libraries.appspot.com/show/31011)
-[clj-help ](http://clojure-libraries.appspot.com/show/31012)
-[Logos ](http://clojure-libraries.appspot.com/show/27009)
-[Conduit ](http://clojure-libraries.appspot.com/show/28016)
-[cache-dot-clj ](http://clojure-libraries.appspot.com/show/31019)
-[dejour ](http://clojure-libraries.appspot.com/show/27016)
-[Robert Hooke ](http://clojure-libraries.appspot.com/show/27018)
-[clj-base64 ](http://clojure-libraries.appspot.com/show/27022)
-[clansi ](http://clojure-libraries.appspot.com/show/27023)
-[Kanshiki Boom! ](http://clojure-libraries.appspot.com/show/27026)
-[clj-native ](http://clojure-libraries.appspot.com/show/32016)
-[dgraph ](http://clojure-libraries.appspot.com/show/29024)
-[Lamina ](http://clojure-libraries.appspot.com/show/27042)
-[work ](http://clojure-libraries.appspot.com/show/32050)
-[clj-bloom ](http://clojure-libraries.appspot.com/show/33048)
-[clj-lfsr ](http://clojure-libraries.appspot.com/show/32053)
+[&nbsp;&raquo;Syntax-Rules ](https://github.com/qbg/syntax-rules)
+[&nbsp;&raquo;clj-help ](https://github.com/budu/clj-help)
+[&nbsp;&raquo;Logos ](https://github.com/swannodette/logos)
+[&nbsp;&raquo;Conduit ](http://intensivesystems.net/tutorials/conduit-motive.html)
+[&nbsp;&raquo;cache-dot-clj ](https://github.com/alienscience/cache-dot-clj)
+[&nbsp;&raquo;dejour ](https://github.com/russolsen/dejour)
+[&nbsp;&raquo;Robert Hooke ](https://github.com/technomancy/robert-hooke)
+[&nbsp;&raquo;clj-base64 ](https://github.com/remvee/clj-base64)
+[&nbsp;&raquo;clansi ](https://github.com/ams-clj/clansi)
+[&nbsp;&raquo;Kanshiki Boom! ](http://dueck.org/kanshiki-boom/)
+[&nbsp;&raquo;clj-native ](https://github.com/bagucode/clj-native)
+[&nbsp;&raquo;dgraph ](https://github.com/gcv/dgraph)
+[&nbsp;&raquo;Lamina ](https://github.com/ztellman/lamina)
+[&nbsp;&raquo;work ](https://github.com/getwoven/work)
+[&nbsp;&raquo;clj-bloom ](https://github.com/kyleburton/clj-bloom)
+[&nbsp;&raquo;clj-lfsr ](https://github.com/kyleburton/clj-lfsr)
 
 ## Math
 
-[Incanter ](http://clojure-libraries.appspot.com/show/31056)
-[cantor ](http://clojure-libraries.appspot.com/show/29070)
-[vector-2d ](http://clojure-libraries.appspot.com/show/33062)
-[clojure-geohash ](http://clojure-libraries.appspot.com/show/167002)
+[&nbsp;&raquo;Incanter ](http://incanter.org/)
+[&nbsp;&raquo;cantor ](http://github.com/ztellman/cantor)
+[&nbsp;&raquo;vector-2d ](https://github.com/nakkaya/vector-2d)
+[&nbsp;&raquo;clojure-geohash ](https://bitbucket.org/sunng/clojure-geohash)
 
 ## Vim Integration
 
-[VimClojure](https://bitbucket.org/kotarak/vimclojure)
+[&nbsp;&raquo;VimClojure](https://bitbucket.org/kotarak/vimclojure)
 
 ## GUIs
 
-[Clarity](https://github.com/stathissideris/clarity)
-[Seesaw](https://github.com/daveray/seesaw)
+[&nbsp;&raquo;Clarity](https://github.com/stathissideris/clarity)
+[&nbsp;&raquo;Seesaw](https://github.com/daveray/seesaw)
 
 ## YAML Parsers
 
-[clj-yaml](https://github.com/lancepantz/clj-yaml)
+[&nbsp;&raquo;clj-yaml](https://github.com/lancepantz/clj-yaml)
 
 ## Web Server Abstraction
 
-[Ring](https://github.com/mmcgrana/ring)
+[&nbsp;&raquo;Ring](https://github.com/mmcgrana/ring)
 
 ## Stream Processing
 
-[Conduit](https://github.com/jduey/conduit)
+[&nbsp;&raquo;Conduit](https://github.com/jduey/conduit)
 
 ## Parsing
 
-[Gloss](https://github.com/ztellman/gloss)
+[&nbsp;&raquo;Gloss](https://github.com/ztellman/gloss)
 
 ## Email Sending
 
-[Postal](https://github.com/drewr/postal)
-[clj-mail](https://github.com/MayDaniel/clj-mail)
+[&nbsp;&raquo;Postal](https://github.com/drewr/postal)
+[&nbsp;&raquo;clj-mail](https://github.com/MayDaniel/clj-mail)
 
 ## Databases
 
-[FleetDB](http://fleetdb.org)
-[Jiraph](https://github.com/ninjudd/jiraph)
+[&nbsp;&raquo;FleetDB](http://fleetdb.org)
+[&nbsp;&raquo;Jiraph](https://github.com/ninjudd/jiraph)
 
 ## Mocking Web Requests
 
-[Ring-Mock](https://github.com/weavejester/ring-mock)
+[&nbsp;&raquo;Ring-Mock](https://github.com/weavejester/ring-mock)
 
 ## Sound
 
-[midi-clj ](http://clojure-libraries.appspot.com/show/32018)
-[osc-clj ](http://clojure-libraries.appspot.com/show/29022)
-[Overtone ](http://clojure-libraries.appspot.com/show/28038)
-[M.A.D (Music as data) ](http://clojure-libraries.appspot.com/show/101003)
-[clj-vorbis ](http://clojure-libraries.appspot.com/show/183002)
-[fughetta ](http://clojure-libraries.appspot.com/show/198002)
+[&nbsp;&raquo;midi-clj ](https://github.com/rosejn/midi-clj)
+[&nbsp;&raquo;osc-clj ](https://github.com/rosejn/osc-clj)
+[&nbsp;&raquo;Overtone ](http://project-overtone.org/)
+[&nbsp;&raquo;M.A.D (Music as data) ](http://mad.emotionull.com/)
+[&nbsp;&raquo;clj-vorbis ](https://github.com/bagucode/clj-vorbis)
+[&nbsp;&raquo;fughetta ](https://github.com/Sebastiansen/fughetta)
 
 ## IDE Integration
 
-[Counterclockwise](http://code.google.com/p/counterclockwise/)
-[Enclojure](http://www.enclojure.org/)
-[La Clojure](http://plugins.intellij.net/plugin/?id=4050)
+[&nbsp;&raquo;Counterclockwise](http://code.google.com/p/counterclockwise/)
+[&nbsp;&raquo;Enclojure](http://www.enclojure.org/)
+[&nbsp;&raquo;La Clojure](http://plugins.intellij.net/plugin/?id=4050)
 
 ## Batch Processing
 
-[Sisyphus ](http://clojure-libraries.appspot.com/show/30005)
-[gantry ](http://clojure-libraries.appspot.com/show/124001)
+[&nbsp;&raquo;Sisyphus ](https://github.com/njoanna/Sisyphus)
+[&nbsp;&raquo;gantry ](https://github.com/drsnyder/gantry)
 
 ## Documentation Tools
 
-[Autodoc](https://github.com/tomfaulhaber/autodoc)
-[Marginalia](https://github.com/fogus/marginalia)
+[&nbsp;&raquo;Autodoc](https://github.com/tomfaulhaber/autodoc)
+[&nbsp;&raquo;Marginalia](https://github.com/fogus/marginalia)
 
 ## Filesystem Watcher
 
-[ns-tracker](https://github.com/weavejester/ns-tracker)
+[&nbsp;&raquo;ns-tracker](https://github.com/weavejester/ns-tracker)
 
 ## IRC Bots
 
-[clojurebot](https://github.com/hiredman/clojurebot)
-[irclj](https://github.com/Raynes/irclj)
-[lazybot](http://lazybot.org/)
-[sexpbot](https://github.com/Raynes/sexpbot)
+[&nbsp;&raquo;clojurebot](https://github.com/hiredman/clojurebot)
+[&nbsp;&raquo;irclj](https://github.com/Raynes/irclj)
+[&nbsp;&raquo;lazybot](http://lazybot.org/)
+[&nbsp;&raquo;sexpbot](https://github.com/Raynes/sexpbot)
 
 ## Natural Language
 
-[Clojure-OpenNLP](https://github.com/dakrone/clojure-opennlp)
+[&nbsp;&raquo;Clojure-OpenNLP](https://github.com/dakrone/clojure-opennlp)
 
 ## Logging
 
-[tools.logging](https://github.com/clojure/tools.logging)
+[&nbsp;&raquo;tools.logging](https://github.com/clojure/tools.logging)
 
 ## Image Processing
 
-[RinzeLight ](http://clojure-libraries.appspot.com/show/27013)
+[&nbsp;&raquo;RinzeLight ](https://github.com/Serabe/rinzelight)
 
 ## Authentication
 
-[Sandbar](https://github.com/brentonashworth/sandbar)
-[ring-basic-authentication](https://github.com/remvee/ring-basic-authentication)
+[&nbsp;&raquo;Sandbar](https://github.com/brentonashworth/sandbar)
+[&nbsp;&raquo;ring-basic-authentication](https://github.com/remvee/ring-basic-authentication)
 
 ## Neo4j Clients
 
-[borneo](https://github.com/wagjo/borneo)
+[&nbsp;&raquo;borneo](https://github.com/wagjo/borneo)
 
 ## Internationalisation
 
-[j18n ](http://clojure-libraries.appspot.com/show/151002)
+[&nbsp;&raquo;j18n ](https://bitbucket.org/kotarak/j18n)
 
 ## WAR File Generation
 
-[Leinginen War Plugin](https://github.com/alienscience/leiningen-war)
-[lein-ring](https://github.com/weavejester/lein-ring)
+[&nbsp;&raquo;Leinginen War Plugin](https://github.com/alienscience/leiningen-war)
+[&nbsp;&raquo;lein-ring](https://github.com/weavejester/lein-ring)
 
 ## Date and Time
 
-[clj-time](https://github.com/getwoven/clj-time)
+[&nbsp;&raquo;clj-time](https://github.com/getwoven/clj-time)
 
 ## Message Queues
 
-[Bandalore](https://github.com/cemerick/bandalore)
-[Spine](https://github.com/mmcgrana/spine)
-[WabbitMQ](https://github.com/mefesto/wabbitmq)
-[beanstalk](https://github.com/drsnyder/beanstalk)
+[&nbsp;&raquo;Bandalore](https://github.com/cemerick/bandalore)
+[&nbsp;&raquo;Spine](https://github.com/mmcgrana/spine)
+[&nbsp;&raquo;WabbitMQ](https://github.com/mefesto/wabbitmq)
+[&nbsp;&raquo;beanstalk](https://github.com/drsnyder/beanstalk)
 
 ## Music &amp; Sound Synthesis
 
-[M.A.D (Music as Data)](http://mad.emotionull.com)
-[Overtone](https://github.com/overtone/overtone)
+[&nbsp;&raquo;M.A.D (Music as Data)](http://mad.emotionull.com)
+[&nbsp;&raquo;Overtone](https://github.com/overtone/overtone)
 
 ## OpenCL
 
-[Calx](https://github.com/ztellman/calx)
+[&nbsp;&raquo;Calx](https://github.com/ztellman/calx)
 
 ## Debugging
 
-[CDT](http://georgejahad.com/clojure/cdt.html)
-[Dr. Evil](https://bitbucket.org/tebeka/dr-evil/src)
-[Mycroft](https://github.com/relevance/mycroft)
-[debug-repl](https://github.com/georgejahad/debug-repl)
-[lein-cdt](https://github.com/travis/lein-cdt)
-[lein-cdt ](http://clojure-libraries.appspot.com/show/31008)
-[Dr. Evil ](http://clojure-libraries.appspot.com/show/31013)
-[Mycroft ](http://clojure-libraries.appspot.com/show/28018)
-[lambdebug ](http://clojure-libraries.appspot.com/show/29015)
-[cdt ](http://clojure-libraries.appspot.com/show/29016)
-[deview ](http://clojure-libraries.appspot.com/show/26007)
-[difform ](http://clojure-libraries.appspot.com/show/27021)
-[clj-stacktrace ](http://clojure-libraries.appspot.com/show/32030)
-[LiveRepl ](http://clojure-libraries.appspot.com/show/124002)
-[tools.trace ](http://clojure-libraries.appspot.com/show/184002)
-[fn.trace ](http://clojure-libraries.appspot.com/show/186003)
+[&nbsp;&raquo;CDT](http://georgejahad.com/clojure/cdt.html)
+[&nbsp;&raquo;Dr. Evil](https://bitbucket.org/tebeka/dr-evil/src)
+[&nbsp;&raquo;Mycroft](https://github.com/relevance/mycroft)
+[&nbsp;&raquo;debug-repl](https://github.com/georgejahad/debug-repl)
+[&nbsp;&raquo;lein-cdt](https://github.com/travis/lein-cdt)
+[&nbsp;&raquo;lein-cdt ](https://github.com/travis/lein-cdt)
+[&nbsp;&raquo;Dr. Evil ](https://bitbucket.org/tebeka/dr-evil/src)
+[&nbsp;&raquo;Mycroft ](http://github.com/relevance/mycroft)
+[&nbsp;&raquo;lambdebug ](http://lambdebug.github.com/)
+[&nbsp;&raquo;cdt ](http://georgejahad.com/clojure/cdt.html)
+[&nbsp;&raquo;deview ](https://github.com/brentonashworth/deview)
+[&nbsp;&raquo;difform ](http://georgejahad.com/clojure/difform.html)
+[&nbsp;&raquo;clj-stacktrace ](https://github.com/mmcgrana/clj-stacktrace)
+[&nbsp;&raquo;LiveRepl ](https://github.com/djpowell/liverepl)
+[&nbsp;&raquo;tools.trace ](https://github.com/clojure/tools.trace)
+[&nbsp;&raquo;fn.trace ](https://github.com/weissjeffm/fn.trace)
 
 ## Redis Clients
 
-[clj-redis](https://github.com/mmcgrana/clj-redis)
-[redis-clojure](https://github.com/ragnard/redis-clojure)
+[&nbsp;&raquo;clj-redis](https://github.com/mmcgrana/clj-redis)
+[&nbsp;&raquo;redis-clojure](https://github.com/ragnard/redis-clojure)
 
 ## Event-driven Workflows
 
-[Lamina](https://github.com/ztellman/lamina)
+[&nbsp;&raquo;Lamina](https://github.com/ztellman/lamina)
 
 ## Logic Programming
 
-[core.logic](https://github.com/clojure/core.logic)
+[&nbsp;&raquo;core.logic](https://github.com/clojure/core.logic)
 
 ## Artificial Intelligence
 
-[Clojush ](http://clojure-libraries.appspot.com/show/32031)
-[Infer ](http://clojure-libraries.appspot.com/show/28050)
-[alter-ego ](http://clojure-libraries.appspot.com/show/27065)
-[vision ](http://clojure-libraries.appspot.com/show/28060)
-[Generalized Quantifiers ](http://clojure-libraries.appspot.com/show/51002)
-[Clojure-Powerloom ](http://clojure-libraries.appspot.com/show/99006)
-[cogito ](http://clojure-libraries.appspot.com/show/131003)
+[&nbsp;&raquo;Clojush ](https://github.com/lspector/Clojush)
+[&nbsp;&raquo;Infer ](https://github.com/getwoven/infer)
+[&nbsp;&raquo;alter-ego ](http://nakkaya.com/alter-ego.html)
+[&nbsp;&raquo;vision ](http://nakkaya.com/vision.html)
+[&nbsp;&raquo;Generalized Quantifiers ](https://github.com/jimtyhurst/generalized-quantifiers)
+[&nbsp;&raquo;Clojure-Powerloom ](https://github.com/davelambert/clojure-powerloom)
+[&nbsp;&raquo;cogito ](http://liebke.github.com/cogito/)
 
 ## Terminal Utilities
 
-[Clansi](https://github.com/ams-clj/clansi)
+[&nbsp;&raquo;Clansi](https://github.com/ams-clj/clansi)
 
 ## Google App Engine
 
-[appengine-magic](https://github.com/gcv/appengine-magic)
-[gaeshi](https://github.com/slagyr/gaeshi)
+[&nbsp;&raquo;appengine-magic](https://github.com/gcv/appengine-magic)
+[&nbsp;&raquo;gaeshi](https://github.com/slagyr/gaeshi)
 
 ## Ring Sessions
 
-[RRSS](https://github.com/paraseba/rrss)
-[Sandbar](https://github.com/brentonashworth/sandbar)
-[mongodb-session](https://github.com/hozumi/mongodb-session)
-[ring-session-riak](https://github.com/ossareh/ring-session-riak)
-[session-expiry](https://github.com/hozumi/session-expiry)
+[&nbsp;&raquo;RRSS](https://github.com/paraseba/rrss)
+[&nbsp;&raquo;Sandbar](https://github.com/brentonashworth/sandbar)
+[&nbsp;&raquo;mongodb-session](https://github.com/hozumi/mongodb-session)
+[&nbsp;&raquo;ring-session-riak](https://github.com/ossareh/ring-session-riak)
+[&nbsp;&raquo;session-expiry](https://github.com/hozumi/session-expiry)
 
 ## Persistent JVM
 
-[Cake](https://github.com/ninjudd/cake)
-[Jark](http://icylisper.in/clojure/jark.html)
+[&nbsp;&raquo;Cake](https://github.com/ninjudd/cake)
+[&nbsp;&raquo;Jark](http://icylisper.in/clojure/jark.html)
 
 ## Ring Routing
 
-[Clout](http://github.com/weavejester/clout)
+[&nbsp;&raquo;Clout](http://github.com/weavejester/clout)
 
 ## CSS Generation
 
-[Gaka](https://github.com/briancarper/gaka)
-[cssgen](https://github.com/paraseba/cssgen)
+[&nbsp;&raquo;Gaka](https://github.com/briancarper/gaka)
+[&nbsp;&raquo;cssgen](https://github.com/paraseba/cssgen)
 
 ## Parsers
 
-[Amotoen ](http://clojure-libraries.appspot.com/show/28020)
-[Stout ](http://clojure-libraries.appspot.com/show/99002)
+[&nbsp;&raquo;Amotoen ](http://github.com/richard-lyman/amotoen)
+[&nbsp;&raquo;Stout ](https://github.com/AndreasKostler/Stout)
 
 ## Editing
 
-[swank-clojure ](http://clojure-libraries.appspot.com/show/26023)
-[Counterclockwise ](http://clojure-libraries.appspot.com/show/32034)
-[Enclojure ](http://clojure-libraries.appspot.com/show/32035)
-[La Clojure ](http://clojure-libraries.appspot.com/show/32036)
-[VimClojure ](http://clojure-libraries.appspot.com/show/26043)
-[align-cljlet ](http://clojure-libraries.appspot.com/show/34002)
-[Sevenri ](http://clojure-libraries.appspot.com/show/35008)
-[swank-clj ](http://clojure-libraries.appspot.com/show/90003)
-[Ritz ](http://clojure-libraries.appspot.com/show/121001)
-[clooj ](http://clojure-libraries.appspot.com/show/125007)
-[slimv.vim ](http://clojure-libraries.appspot.com/show/141002)
+[&nbsp;&raquo;swank-clojure ](https://github.com/technomancy/swank-clojure)
+[&nbsp;&raquo;Counterclockwise ](http://code.google.com/p/counterclockwise/)
+[&nbsp;&raquo;Enclojure ](http://www.enclojure.org/)
+[&nbsp;&raquo;La Clojure ](http://plugins.intellij.net/plugin/?id=4050)
+[&nbsp;&raquo;VimClojure ](https://bitbucket.org/kotarak/vimclojure)
+[&nbsp;&raquo;align-cljlet ](https://github.com/gstamp/align-cljlet)
+[&nbsp;&raquo;Sevenri ](https://github.com/ksuzuki/Sevenri)
+[&nbsp;&raquo;swank-clj ](https://github.com/hugoduncan/swank-clj)
+[&nbsp;&raquo;Ritz ](https://github.com/pallet/ritz)
+[&nbsp;&raquo;clooj ](https://github.com/arthuredelstein/clooj)
+[&nbsp;&raquo;slimv.vim ](https://github.com/vim-scripts/slimv.vim)
 
 ## MongoDB Clients
 
-[CongoMongo](https://github.com/somnium/congomongo)
-[Hassium](https://github.com/weavejester/hassium)
-[Karras](https://github.com/wilkes/karras)
+[&nbsp;&raquo;CongoMongo](https://github.com/somnium/congomongo)
+[&nbsp;&raquo;Hassium](https://github.com/weavejester/hassium)
+[&nbsp;&raquo;Karras](https://github.com/wilkes/karras)
 
 ## Cryptography
 
-[crypto-random](https://github.com/weavejester/crypto-random)
-[digest](https://bitbucket.org/tebeka/clj-digest/src)
+[&nbsp;&raquo;crypto-random](https://github.com/weavejester/crypto-random)
+[&nbsp;&raquo;digest](https://bitbucket.org/tebeka/clj-digest/src)
 
 ## Security
 
-[Clojail ](http://clojure-libraries.appspot.com/show/27011)
-[clj-sandbox ](http://clojure-libraries.appspot.com/show/32015)
-[digest ](http://clojure-libraries.appspot.com/show/26047)
-[clj-digest ](http://clojure-libraries.appspot.com/show/135013)
+[&nbsp;&raquo;Clojail ](https://github.com/Raynes/clojail)
+[&nbsp;&raquo;clj-sandbox ](https://github.com/Licenser/clj-sandbox)
+[&nbsp;&raquo;digest ](https://bitbucket.org/tebeka/clj-digest/src)
+[&nbsp;&raquo;clj-digest ](https://bitbucket.org/tebeka/clj-digest)
 
 ## Unit Testing
 
-[Lazytest](https://github.com/stuartsierra/lazytest)
-[Midje](https://github.com/marick/Midje)
+[&nbsp;&raquo;Lazytest](https://github.com/stuartsierra/lazytest)
+[&nbsp;&raquo;Midje](https://github.com/marick/Midje)
 
 ## Form Validation
 
-[Sandbar](https://github.com/brentonashworth/sandbar)
+[&nbsp;&raquo;Sandbar](https://github.com/brentonashworth/sandbar)
 
 ## Dependency Management
 
-[lein-diagnostics](https://github.com/robwolfe/lein-diagnostics)
-[lein-search](http://github.com/Licenser/lein-search)
-[namespace-depends](https://github.com/hugoduncan/namespace-depends)
+[&nbsp;&raquo;lein-diagnostics](https://github.com/robwolfe/lein-diagnostics)
+[&nbsp;&raquo;lein-search](http://github.com/Licenser/lein-search)
+[&nbsp;&raquo;namespace-depends](https://github.com/hugoduncan/namespace-depends)
 
 ## Request Middleware
 
-[ring-etag-middleware](https://github.com/mikejs/ring-etag-middleware)
-[ring-gzip-middleware](https://github.com/mikejs/ring-gzip-middleware)
-[ring-json-params](https://github.com/mmcgrana/ring-json-params)
-[ring-upload-progress](https://github.com/joodie/ring-upload-progress)
+[&nbsp;&raquo;ring-etag-middleware](https://github.com/mikejs/ring-etag-middleware)
+[&nbsp;&raquo;ring-gzip-middleware](https://github.com/mikejs/ring-gzip-middleware)
+[&nbsp;&raquo;ring-json-params](https://github.com/mmcgrana/ring-json-params)
+[&nbsp;&raquo;ring-upload-progress](https://github.com/joodie/ring-upload-progress)
 
 ## Continuous Testing
 
-[lein-autotest](https://github.com/dakrone/lein-autotest)
-[lein-retest](https://github.com/technomancy/lein-retest)
+[&nbsp;&raquo;lein-autotest](https://github.com/dakrone/lein-autotest)
+[&nbsp;&raquo;lein-retest](https://github.com/technomancy/lein-retest)
 
 ## Machine Learning
 
-[Infer](https://github.com/getwoven/infer)
+[&nbsp;&raquo;Infer](https://github.com/getwoven/infer)
 
 ## SQL Abstraction
 
-[Carte](https://github.com/brentonashworth/carte)
-[ClojureQL](https://github.com/LauJensen/clojureql)
-[Korma](http://sqlkorma.com/)
-[Lobos](http://budu.github.com/lobos)
-[clj-record](https://github.com/duelinmarkers/clj-record)
+[&nbsp;&raquo;Carte](https://github.com/brentonashworth/carte)
+[&nbsp;&raquo;ClojureQL](https://github.com/LauJensen/clojureql)
+[&nbsp;&raquo;Korma](http://sqlkorma.com/)
+[&nbsp;&raquo;Lobos](http://budu.github.com/lobos)
+[&nbsp;&raquo;clj-record](https://github.com/duelinmarkers/clj-record)
 
 ## Network Protocols
 
-[Gloss](https://github.com/ztellman/gloss)
+[&nbsp;&raquo;Gloss](https://github.com/ztellman/gloss)
 
 ## JSON Parsers
 
-[Cheshire](https://github.com/dakrone/cheshire)
-[clj-json](https://github.com/mmcgrana/clj-json)
-[clojure-json](https://github.com/danlarkin/clojure-json)
+[&nbsp;&raquo;Cheshire](https://github.com/dakrone/cheshire)
+[&nbsp;&raquo;clj-json](https://github.com/mmcgrana/clj-json)
+[&nbsp;&raquo;clojure-json](https://github.com/danlarkin/clojure-json)
 
 ## Exception Handling
 
-[Slingshot](https://github.com/scgilardi/slingshot)
-[clj-hoptoad](https://github.com/leadtune/clj-hoptoad)
-[clj-stacktrace](https://github.com/mmcgrana/clj-stacktrace)
+[&nbsp;&raquo;Slingshot](https://github.com/scgilardi/slingshot)
+[&nbsp;&raquo;clj-hoptoad](https://github.com/leadtune/clj-hoptoad)
+[&nbsp;&raquo;clj-stacktrace](https://github.com/mmcgrana/clj-stacktrace)
 
 ## Tools
 
-[clojure-refactoring ](http://clojure-libraries.appspot.com/show/180006)
+[&nbsp;&raquo;clojure-refactoring ](https://github.com/joodie/clojure-refactoring)
 
 ## Testing
 
-[Midge ](http://clojure-libraries.appspot.com/show/30006)
-[Ring-Mock ](http://clojure-libraries.appspot.com/show/29040)
-[Lazytest ](http://clojure-libraries.appspot.com/show/27051)
-[Faker ](http://clojure-libraries.appspot.com/show/89001)
-[ClojureGiven ](http://clojure-libraries.appspot.com/show/121002)
-[test-this ](http://clojure-libraries.appspot.com/show/123004)
-[clj-webdriver ](http://clojure-libraries.appspot.com/show/140001)
-[ClojureCheck ](http://clojure-libraries.appspot.com/show/147001)
-[expectations ](http://clojure-libraries.appspot.com/show/170002)
+[&nbsp;&raquo;Midge ](https://github.com/marick/Midje)
+[&nbsp;&raquo;Ring-Mock ](https://github.com/weavejester/ring-mock)
+[&nbsp;&raquo;Lazytest ](https://github.com/stuartsierra/lazytest)
+[&nbsp;&raquo;Faker ](https://github.com/paraseba/faker)
+[&nbsp;&raquo;ClojureGiven ](https://github.com/ckirkendall/ClojureGiven)
+[&nbsp;&raquo;test-this ](https://github.com/paraseba/test-this)
+[&nbsp;&raquo;clj-webdriver ](https://github.com/semperos/clj-webdriver)
+[&nbsp;&raquo;ClojureCheck ](https://bitbucket.org/kotarak/clojurecheck)
+[&nbsp;&raquo;expectations ](https://github.com/jaycfields/expectations)
 
 ## Networking
 
-[WabbitMQ ](http://clojure-libraries.appspot.com/show/30002)
-[Cascalog ](http://clojure-libraries.appspot.com/show/26016)
-[swarmiji ](http://clojure-libraries.appspot.com/show/26017)
-[Postal ](http://clojure-libraries.appspot.com/show/27041)
-[irclj ](http://clojure-libraries.appspot.com/show/29037)
-[sexpbot ](http://clojure-libraries.appspot.com/show/29038)
-[Bandalore ](http://clojure-libraries.appspot.com/show/31037)
-[rabbitcj ](http://clojure-libraries.appspot.com/show/33053)
-[Aleph ](http://clojure-libraries.appspot.com/show/29069)
-[net-eval ](http://clojure-libraries.appspot.com/show/34003)
-[Clj-Mail ](http://clojure-libraries.appspot.com/show/71003)
-[bunny ](http://clojure-libraries.appspot.com/show/78005)
-[jobim ](http://clojure-libraries.appspot.com/show/86001)
-[necessary-evil ](http://clojure-libraries.appspot.com/show/100002)
-[Recon ](http://clojure-libraries.appspot.com/show/125002)
-[clj-soap ](http://clojure-libraries.appspot.com/show/128003)
+[&nbsp;&raquo;WabbitMQ ](https://github.com/mefesto/wabbitmq)
+[&nbsp;&raquo;Cascalog ](https://github.com/nathanmarz/cascalog)
+[&nbsp;&raquo;swarmiji ](https://github.com/amitrathore/swarmiji)
+[&nbsp;&raquo;Postal ](https://github.com/drewr/postal)
+[&nbsp;&raquo;irclj ](https://github.com/Raynes/irclj)
+[&nbsp;&raquo;sexpbot ](https://github.com/Raynes/sexpbot)
+[&nbsp;&raquo;Bandalore ](https://github.com/cemerick/bandalore)
+[&nbsp;&raquo;rabbitcj ](https://github.com/getwoven/rabbitcj)
+[&nbsp;&raquo;Aleph ](http://github.com/ztellman/aleph)
+[&nbsp;&raquo;net-eval ](http://nakkaya.com/net-eval.html)
+[&nbsp;&raquo;Clj-Mail ](https://github.com/MayDaniel/Clj-Mail)
+[&nbsp;&raquo;bunny ](http://github.com/icylisper/bunny.git)
+[&nbsp;&raquo;jobim ](https://github.com/antoniogarrote/jobim)
+[&nbsp;&raquo;necessary-evil ](https://github.com/brehaut/necessary-evil)
+[&nbsp;&raquo;Recon ](https://github.com/icylisper/recon)
+[&nbsp;&raquo;clj-soap ](https://bitbucket.org/taka2ru/clj-soap)
 
 ## IO
 
-[Gloss ](http://clojure-libraries.appspot.com/show/31009)
-[byte-spec ](http://clojure-libraries.appspot.com/show/29023)
-[clj-avro ](http://clojure-libraries.appspot.com/show/32056)
-[Clodiuno ](http://clojure-libraries.appspot.com/show/34004)
-[serial-port ](http://clojure-libraries.appspot.com/show/55001)
-[fs ](http://clojure-libraries.appspot.com/show/30004)
+[&nbsp;&raquo;Gloss ](https://github.com/ztellman/gloss)
+[&nbsp;&raquo;byte-spec ](https://github.com/rosejn/byte-spec)
+[&nbsp;&raquo;clj-avro ](https://github.com/relaynetwork/clj-avro)
+[&nbsp;&raquo;Clodiuno ](http://nakkaya.com/clodiuno.html)
+[&nbsp;&raquo;serial-port ](https://github.com/samaaron/serial-port)
+[&nbsp;&raquo;fs ](https://github.com/Raynes/fs)
 
 ## Database
 
-[ClojureQL ](http://clojure-libraries.appspot.com/show/31010)
-[clj-sql ](http://clojure-libraries.appspot.com/show/32007)
-[SQLRat ](http://clojure-libraries.appspot.com/show/32008)
-[clj-dbcp ](http://clojure-libraries.appspot.com/show/32010)
-[clj-ldap ](http://clojure-libraries.appspot.com/show/32011)
-[clutch ](http://clojure-libraries.appspot.com/show/30021)
-[CongoMongo ](http://clojure-libraries.appspot.com/show/29041)
-[Hassium ](http://clojure-libraries.appspot.com/show/29042)
-[Karras ](http://clojure-libraries.appspot.com/show/27044)
-[redis-clojure ](http://clojure-libraries.appspot.com/show/28039)
-[clj-record ](http://clojure-libraries.appspot.com/show/30032)
-[sdb ](http://clojure-libraries.appspot.com/show/30034)
-[jiraph ](http://clojure-libraries.appspot.com/show/32054)
-[Borneo ](http://clojure-libraries.appspot.com/show/41001)
-[Rummage ](http://clojure-libraries.appspot.com/show/43002)
-[Clj-Liquibase ](http://clojure-libraries.appspot.com/show/52002)
+[&nbsp;&raquo;ClojureQL ](http://www.clojureql.org/)
+[&nbsp;&raquo;clj-sql ](http://github.com/alienscience/clj-sql)
+[&nbsp;&raquo;SQLRat ](https://bitbucket.org/kumarshantanu/sqlrat/src)
+[&nbsp;&raquo;clj-dbcp ](https://bitbucket.org/kumarshantanu/clj-dbcp/src)
+[&nbsp;&raquo;clj-ldap ](https://github.com/alienscience/clj-ldap)
+[&nbsp;&raquo;clutch ](https://github.com/ashafa/clutch)
+[&nbsp;&raquo;CongoMongo ](https://github.com/somnium/congomongo)
+[&nbsp;&raquo;Hassium ](https://github.com/weavejester/hassium)
+[&nbsp;&raquo;Karras ](https://github.com/wilkes/karras)
+[&nbsp;&raquo;redis-clojure ](https://github.com/ragnard/redis-clojure)
+[&nbsp;&raquo;clj-record ](https://github.com/duelinmarkers/clj-record)
+[&nbsp;&raquo;sdb ](https://github.com/richhickey/sdb)
+[&nbsp;&raquo;jiraph ](https://github.com/ninjudd/jiraph)
+[&nbsp;&raquo;Borneo ](https://github.com/wagjo/borneo)
+[&nbsp;&raquo;Rummage ](https://github.com/cemerick/rummage)
+[&nbsp;&raquo;Clj-Liquibase ](https://bitbucket.org/kumarshantanu/clj-liquibase/src)
 
 ## IRC Servers
 
-[Subrosa](https://github.com/danlarkin/subrosa)
+[&nbsp;&raquo;Subrosa](https://github.com/danlarkin/subrosa)
 
 ## Games
 
-[Begame ](http://clojure-libraries.appspot.com/show/79006)
+[&nbsp;&raquo;Begame ](https://github.com/pepijndevos/Begame/)
 
 ## Clojars
 
-[lein-clojars](https://github.com/ato/lein-clojars)
-[lein-search](http://github.com/Licenser/lein-search)
+[&nbsp;&raquo;lein-clojars](https://github.com/ato/lein-clojars)
+[&nbsp;&raquo;lein-search](http://github.com/Licenser/lein-search)
 
 ## Deployment Automation
 
-[Pallet](http://pallet.github.com/pallet/)
-[crane](https://github.com/getwoven/crane)
-[lein-beanstalk](https://github.com/weavejester/lein-beanstalk)
+[&nbsp;&raquo;Pallet](http://pallet.github.com/pallet/)
+[&nbsp;&raquo;crane](https://github.com/getwoven/crane)
+[&nbsp;&raquo;lein-beanstalk](https://github.com/weavejester/lein-beanstalk)
 
 ## Genetic Programming
 
-[Clojush](https://github.com/lspector/Clojush)
+[&nbsp;&raquo;Clojush](https://github.com/lspector/Clojush)
 
 ## MS Office Documents
 
-[Docjure](https://github.com/ative/docjure)
+[&nbsp;&raquo;Docjure](https://github.com/ative/docjure)
 
 ## Full text search
 
-[Snowball Stemmer](https://github.com/weavejester/snowball-stemmer)
+[&nbsp;&raquo;Snowball Stemmer](https://github.com/weavejester/snowball-stemmer)
 
 ## Ring Development
 
-[Ring-Serve](https://github.com/weavejester/ring-serve)
-[lein-ring](https://github.com/weavejester/lein-ring)
-[ring-reload-modified](https://github.com/weavejester/ring-reload-modified)
+[&nbsp;&raquo;Ring-Serve](https://github.com/weavejester/ring-serve)
+[&nbsp;&raquo;lein-ring](https://github.com/weavejester/lein-ring)
+[&nbsp;&raquo;ring-reload-modified](https://github.com/weavejester/ring-reload-modified)
 
 ## Documentation
 
-[Autodoc ](http://clojure-libraries.appspot.com/show/26021)
-[Marginalia ](http://clojure-libraries.appspot.com/show/26022)
+[&nbsp;&raquo;Autodoc ](https://github.com/tomfaulhaber/autodoc)
+[&nbsp;&raquo;Marginalia ](https://github.com/fogus/marginalia)
 
 ## Web Frameworks
 
-[Clothesline](https://github.com/BankSimple/Clothesline)
-[Compojure](https://github.com/weavejester/compojure)
-[Conjure](http://github.com/macourtney/Conjure)
-[Fjord](https://github.com/notifymd/fjord)
-[Moustache](https://github.com/cgrand/moustache)
-[Noir](http://webnoir.org/)
+[&nbsp;&raquo;Clothesline](https://github.com/BankSimple/Clothesline)
+[&nbsp;&raquo;Compojure](https://github.com/weavejester/compojure)
+[&nbsp;&raquo;Conjure](http://github.com/macourtney/Conjure)
+[&nbsp;&raquo;Fjord](https://github.com/notifymd/fjord)
+[&nbsp;&raquo;Moustache](https://github.com/cgrand/moustache)
+[&nbsp;&raquo;Noir](http://webnoir.org/)
 
 ## Distributed Programming
 
-[Cascalog](https://github.com/nathanmarz/cascalog)
-[swarmiji](https://github.com/amitrathore/swarmiji)
-[work](https://github.com/getwoven/work)
+[&nbsp;&raquo;Cascalog](https://github.com/nathanmarz/cascalog)
+[&nbsp;&raquo;swarmiji](https://github.com/amitrathore/swarmiji)
+[&nbsp;&raquo;work](https://github.com/getwoven/work)
 
 ## Statistical Computing
 
-[Incanter](http://incanter.org/)
+[&nbsp;&raquo;Incanter](http://incanter.org/)
 
 ## Database Migrations
 
-[Drift](https://github.com/macourtney/drift)
-[Lobos](http://budu.github.com/lobos)
-[Migratus](https://github.com/pjstadig/migratus)
-[Ragtime](https://github.com/weavejester/ragtime)
+[&nbsp;&raquo;Drift](https://github.com/macourtney/drift)
+[&nbsp;&raquo;Lobos](http://budu.github.com/lobos)
+[&nbsp;&raquo;Migratus](https://github.com/pjstadig/migratus)
+[&nbsp;&raquo;Ragtime](https://github.com/weavejester/ragtime)
 
 ## Javascript Minimization
 
-[lein-js](https://github.com/maravillas/lein-js)
+[&nbsp;&raquo;lein-js](https://github.com/maravillas/lein-js)
 
 ## Sandboxes
 
-[Clojail](https://github.com/Raynes/clojail)
+[&nbsp;&raquo;Clojail](https://github.com/Raynes/clojail)
 
 ## HTML Parsers
 
-[Webmine](https://github.com/getwoven/webmine)
-[clj-tagsoup](https://github.com/nathell/clj-tagsoup)
+[&nbsp;&raquo;Webmine](https://github.com/getwoven/webmine)
+[&nbsp;&raquo;clj-tagsoup](https://github.com/nathell/clj-tagsoup)
 
 ## GUI
 
-[Indyvon ](http://clojure-libraries.appspot.com/show/28019)
-[seesaw ](http://clojure-libraries.appspot.com/show/78002)
-[Hafni ](http://clojure-libraries.appspot.com/show/106001)
-[GUIFTW ](http://clojure-libraries.appspot.com/show/111009)
+[&nbsp;&raquo;Indyvon ](https://bitbucket.org/kryshen/indyvon/src)
+[&nbsp;&raquo;seesaw ](https://github.com/daveray/seesaw)
+[&nbsp;&raquo;Hafni ](https://github.com/odyssomay/Hafni)
+[&nbsp;&raquo;GUIFTW ](https://github.com/santamon/GUIFTW)
 
 ## External APIs
 
-[clj-facebook-graph ](http://clojure-libraries.appspot.com/show/30003)
-[clj-dropbox ](http://clojure-libraries.appspot.com/show/29017)
-[cljman ](http://clojure-libraries.appspot.com/show/27017)
-[clj-facebook ](http://clojure-libraries.appspot.com/show/27025)
-[clj-hoptoad ](http://clojure-libraries.appspot.com/show/32029)
-[clj-yelp ](http://clojure-libraries.appspot.com/show/101005)
-[stockings ](http://clojure-libraries.appspot.com/show/90011)
-[clj-itunes ](http://clojure-libraries.appspot.com/show/109001)
-[twitter-api ](http://clojure-libraries.appspot.com/show/109003)
-[clj-cnet ](http://clojure-libraries.appspot.com/show/114003)
-[clj-ebay ](http://clojure-libraries.appspot.com/show/112004)
-[clj-groupon ](http://clojure-libraries.appspot.com/show/113005)
-[clj-linkshare ](http://clojure-libraries.appspot.com/show/116009)
-[clj-nytimes ](http://clojure-libraries.appspot.com/show/112006)
-[clj-musixmatch ](http://clojure-libraries.appspot.com/show/116011)
-[clj-thetvdb ](http://clojure-libraries.appspot.com/show/115004)
+[&nbsp;&raquo;clj-facebook-graph ](https://github.com/maxweber/clj-facebook-graph)
+[&nbsp;&raquo;clj-dropbox ](http://github.com/aria42/clj-dropbox)
+[&nbsp;&raquo;cljman ](https://github.com/polypus74/cljman)
+[&nbsp;&raquo;clj-facebook ](https://github.com/rnewman/clj-facebook)
+[&nbsp;&raquo;clj-hoptoad ](https://github.com/leadtune/clj-hoptoad)
+[&nbsp;&raquo;clj-yelp ](https://github.com/eduardoejp/clj-yelp)
+[&nbsp;&raquo;stockings ](https://github.com/fxtlabs/stockings)
+[&nbsp;&raquo;clj-itunes ](https://github.com/eduardoejp/clj-itunes)
+[&nbsp;&raquo;twitter-api ](https://github.com/adamwynne/twitter-api)
+[&nbsp;&raquo;clj-cnet ](https://github.com/eduardoejp/clj-cnet)
+[&nbsp;&raquo;clj-ebay ](https://github.com/eduardoejp/clj-ebay)
+[&nbsp;&raquo;clj-groupon ](https://github.com/eduardoejp/clj-groupon)
+[&nbsp;&raquo;clj-linkshare ](https://github.com/eduardoejp/clj-linkshare)
+[&nbsp;&raquo;clj-nytimes ](https://github.com/eduardoejp/clj-nytimes)
+[&nbsp;&raquo;clj-musixmatch ](https://github.com/eduardoejp/clj-musixmatch)
+[&nbsp;&raquo;clj-thetvdb ](https://github.com/eduardoejp/clj-thetvdb)
 
 ## Deployment
 
-[Crane ](http://clojure-libraries.appspot.com/show/26019)
-[lein-beanstalk ](http://clojure-libraries.appspot.com/show/26020)
+[&nbsp;&raquo;Crane ](https://github.com/getwoven/crane)
+[&nbsp;&raquo;lein-beanstalk ](https://github.com/weavejester/lein-beanstalk)
 
 ## Command Line Tools
 
-[Pallet ](http://clojure-libraries.appspot.com/show/26018)
-[Jark ](http://clojure-libraries.appspot.com/show/36007)
-[clargon ](http://clojure-libraries.appspot.com/show/77001)
-[clojopts ](http://clojure-libraries.appspot.com/show/32047)
-[pallet-hadoop ](http://clojure-libraries.appspot.com/show/90012)
-[clojure-control ](http://clojure-libraries.appspot.com/show/131014)
-[stevedore ](http://clojure-libraries.appspot.com/show/182001)
-[cd-client ](http://clojure-libraries.appspot.com/show/193002)
+[&nbsp;&raquo;Pallet ](http://pallet.github.com/pallet/)
+[&nbsp;&raquo;Jark ](http://icylisper.in/jark)
+[&nbsp;&raquo;clargon ](https://github.com/gar3thjon3s/clargon)
+[&nbsp;&raquo;clojopts ](https://github.com/amalloy/clojopts)
+[&nbsp;&raquo;pallet-hadoop ](https://github.com/pallet/pallet-hadoop)
+[&nbsp;&raquo;clojure-control ](https://github.com/killme2008/clojure-control)
+[&nbsp;&raquo;stevedore ](https://github.com/pallet/stevedore)
+[&nbsp;&raquo;cd-client ](https://github.com/jafingerhut/cd-client)
 
 ## Build
 
-[clojuresque ](http://clojure-libraries.appspot.com/show/28014)
-[clojure-maven-plugin ](http://clojure-libraries.appspot.com/show/28017)
-[Cake ](http://clojure-libraries.appspot.com/show/29027)
-[Leiningen ](http://clojure-libraries.appspot.com/show/29028)
-[lein-clojars ](http://clojure-libraries.appspot.com/show/30019)
-[lein-search ](http://clojure-libraries.appspot.com/show/30020)
-[lein-diagnostics ](http://clojure-libraries.appspot.com/show/30022)
-[lein-namespace-depends ](http://clojure-libraries.appspot.com/show/26015)
-[Leiningen war plugin ](http://clojure-libraries.appspot.com/show/26045)
-[lein-ring ](http://clojure-libraries.appspot.com/show/33042)
-[Lein-LB ](http://clojure-libraries.appspot.com/show/72001)
-[Lein-daemon ](http://clojure-libraries.appspot.com/show/90005)
-[lein-localrepo ](http://clojure-libraries.appspot.com/show/124003)
-[lein-control ](http://clojure-libraries.appspot.com/show/132018)
+[&nbsp;&raquo;clojuresque ](http://kotka.lighthouseapp.com/projects/45093-clojuresque/overview)
+[&nbsp;&raquo;clojure-maven-plugin ](https://github.com/talios/clojure-maven-plugin)
+[&nbsp;&raquo;Cake ](https://github.com/ninjudd/cake)
+[&nbsp;&raquo;Leiningen ](https://github.com/technomancy/leiningen)
+[&nbsp;&raquo;lein-clojars ](https://github.com/ato/lein-clojars)
+[&nbsp;&raquo;lein-search ](https://github.com/Licenser/lein-search)
+[&nbsp;&raquo;lein-diagnostics ](https://github.com/robwolfe/lein-diagnostics)
+[&nbsp;&raquo;lein-namespace-depends ](https://github.com/hugoduncan/lein-namespace-depends)
+[&nbsp;&raquo;Leiningen war plugin ](https://github.com/alienscience/leiningen-war)
+[&nbsp;&raquo;lein-ring ](https://github.com/weavejester/lein-ring)
+[&nbsp;&raquo;Lein-LB ](https://bitbucket.org/kumarshantanu/lein-lb/src)
+[&nbsp;&raquo;Lein-daemon ](https://github.com/arohner/lein-daemon)
+[&nbsp;&raquo;lein-localrepo ](https://github.com/kumarshantanu/lein-localrepo)
+[&nbsp;&raquo;lein-control ](https://github.com/sunng87/lein-control)
 
 ## Graphics
 
-[Penumbra](https://github.com/ztellman/penumbra)
-[clj-processing](https://github.com/rosado/clj-processing)
-[clj-processing ](http://clojure-libraries.appspot.com/show/32032)
-[Penumbra ](http://clojure-libraries.appspot.com/show/30050)
-[clj3D ](http://clojure-libraries.appspot.com/show/64001)
-[tikkba ](http://clojure-libraries.appspot.com/show/81001)
-[analemma ](http://clojure-libraries.appspot.com/show/101002)
+[&nbsp;&raquo;Penumbra](https://github.com/ztellman/penumbra)
+[&nbsp;&raquo;clj-processing](https://github.com/rosado/clj-processing)
+[&nbsp;&raquo;clj-processing ](https://github.com/rosado/clj-processing)
+[&nbsp;&raquo;Penumbra ](http://github.com/ztellman/penumbra)
+[&nbsp;&raquo;clj3D ](https://github.com/CharlesStain/clj3D)
+[&nbsp;&raquo;tikkba ](https://github.com/pallix/tikkba)
+[&nbsp;&raquo;analemma ](https://github.com/liebke/analemma)
 
 ## Build Tools
 
-[Cake](https://github.com/ninjudd/cake)
-[Leiningen](https://github.com/technomancy/leiningen)
-[clojuresque](https://bitbucket.org/kotarak/clojuresque/src)
+[&nbsp;&raquo;Cake](https://github.com/ninjudd/cake)
+[&nbsp;&raquo;Leiningen](https://github.com/technomancy/leiningen)
+[&nbsp;&raquo;clojuresque](https://bitbucket.org/kotarak/clojuresque/src)
 
 ## SimpleDB Clients
 
-[Rummage](https://github.com/cemerick/rummage)
-[sdb](https://github.com/richhickey/sdb)
+[&nbsp;&raquo;Rummage](https://github.com/cemerick/rummage)
+[&nbsp;&raquo;sdb](https://github.com/richhickey/sdb)
 
 ## Charting
 
-[Lacij ](http://clojure-libraries.appspot.com/show/81004)
-[dorothy ](http://clojure-libraries.appspot.com/show/129019)
+[&nbsp;&raquo;Lacij ](https://github.com/pallix/lacij)
+[&nbsp;&raquo;dorothy ](https://github.com/daveray/dorothy)
 
 ## Random Data Generation
 
-[Faker](https://github.com/paraseba/faker)
-[re-rand](https://github.com/weavejester/re-rand)
+[&nbsp;&raquo;Faker](https://github.com/paraseba/faker)
+[&nbsp;&raquo;re-rand](https://github.com/weavejester/re-rand)
 
 ## SVG Generation
 
-[Analemma](https://github.com/liebke/analemma)
-[Tikkba](https://github.com/pallix/tikkba)
+[&nbsp;&raquo;Analemma](https://github.com/liebke/analemma)
+[&nbsp;&raquo;Tikkba](https://github.com/pallix/tikkba)
 
 ## HTTP Clients
 
-[clj-http](https://github.com/mmcgrana/clj-http)
-[http.async.client](https://github.com/neotyk/http.async.client)
+[&nbsp;&raquo;clj-http](https://github.com/mmcgrana/clj-http)
+[&nbsp;&raquo;http.async.client](https://github.com/neotyk/http.async.client)
 

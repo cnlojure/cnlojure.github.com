@@ -21,6 +21,10 @@ open("http://www.clojure-toolbox.com/") do |http|
   end
 end
 
+def fetch_project_url(url)
+  open(url).read.scan(/<a href="(.*)">\1<\/a>/)[0][0]
+end
+
 open("http://clojure-libraries.appspot.com/") do |http|
   http.each_line do |line|
     catalog="unknow"
@@ -29,11 +33,13 @@ open("http://clojure-libraries.appspot.com/") do |http|
         catalog=x[2]
         libs[catalog]||=[]
       elsif x[1]=="show"
-        libs[catalog] << Project.new(x[2].sub(/&raquo;&nbsp;/,""),"http://clojure-libraries.appspot.com#{x[0]}")
+        detail="http://clojure-libraries.appspot.com#{x[0]}"
+        libs[catalog] << Project.new(x[2].sub(/&raquo;&nbsp;/,""),fetch_project_url(detail));
       end
     end
   end
 end
+
 File.open("open.markdown","w") do |f|
   f.write <<BEGIN 
 ---
@@ -46,7 +52,7 @@ BEGIN
     f.puts "## #{catalog}"
     f.puts ""
     projects.each do |proj|
-      f.puts "[#{proj.name}](#{proj.url})"
+      f.puts "[&nbsp;&raquo;#{proj.name}](#{proj.url})"
     end
     f.puts ""
   end
