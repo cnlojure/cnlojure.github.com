@@ -29,6 +29,12 @@
         <li>
 		  {% endif %}
           <a href="/links.html">资源链接</a></li>
+		{% if page.nav_item == 'open' %}
+        <li class="selected">
+		  {% else %}
+        <li>
+		  {% endif %}
+          <a href="/open.html">Clojure开源项目</a></li>
       </ul>
       <a href="/"><h1>(clojure :chinese-users)</h1></a>
 	</div>
