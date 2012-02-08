@@ -42,8 +42,8 @@ Clojure 文档。
 
 ## 使用 Clojure 的中国公司
 
-[OnyCloud](http://onycloud.com)
-: 所在地: 苏州昆山。业务范围: 互联网服务、云计算中间件。
+[品悦创智（北京）技术咨询有限公司（美味书签、AVOS China）](http://team.mei.fm)
+: 所在地: 北京。用 Clojure 开发[美味书签](http://mei.fm)的部分 web service 和基础架构。
 
 
 如果您有链接要补充到这个页面，请发 pull request 到
