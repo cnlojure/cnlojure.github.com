@@ -12,15 +12,7 @@ nav_item: home
 
 ## 近期活动
 
-我们计划在2012年2月底或者3月初举行第二次线下聚会，报名链接:[http://www.diaochapai.com/survey584561](http://www.diaochapai.com/survey584561)
-
-我们的第一次线下聚会于8月6日在上海成功举行。感谢大众点评网的朋友提供活动场地。以下是部分讲座的幻灯片:
-
-* [Clojure概览](http://www.slideshare.net/killme2008/clojure-8785955) 庄晓丹 (淘宝)
-* [Clojure开发的生命周期管理](http://www.slideshare.net/sunng87/clojure-cnclojuremeetup) 孙宁
-* [Clojure Web Development](http://www.slideshare.net/jiangxhong/clojure-web-development-8800348) 江宏（OnyCloud）
-* [How to Build an HTML5 Game in Half a day](http://www.slideshare.net/jiangxhong/how-to-build-an-html5-game-in-half-a-day) 吴哲（OnyCloud）
-* [大众点评网新架构](http://www.slideshare.net/killme2008/ss-8805669) 苗向彬 (大众点评网)
+我们在3月4号，[美味书签中国办公室](http://team.mei.fm/)成功举办了第二次线下聚会，感谢[美味书签](http://mei.fm/)同学们的帮助，会议资料请从github下载，地址是 [https://github.com/cnlojure/cn-clojure-meetup](https://github.com/cnlojure/cn-clojure-meetup)。
 
 ## Google Group
 [cn-clojure google group](http://groups.google.com/group/cn-clojure)
