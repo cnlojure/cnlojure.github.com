@@ -247,10 +247,10 @@ nav_item: open
 [&nbsp;&raquo;docjure](https://github.com/ative/docjure)
 [&nbsp;&raquo;clojure-csv](https://github.com/davidsantiago/clojure-csv)
 [&nbsp;&raquo;Deep-Freeze](https://github.com/halgari/deep-freeze)
-[&nbsp;&raquo;clojure.prxml]()
+[&nbsp;&raquo;clojure.prxml](https://github.com/weissjeffm/clojure.prxml)
 [&nbsp;&raquo;clj-tika](https://github.com/alexott/clj-tika)
 [&nbsp;&raquo;json-zetta](https://github.com/van-clj/json-zetta)
-[&nbsp;&raquo;data.csv]()
+[&nbsp;&raquo;data.csv](https://github.com/clojure/data.csv)
 
 ## WAR File Generation
 
@@ -285,7 +285,7 @@ nav_item: open
 [&nbsp;&raquo;debug-repl](https://github.com/georgejahad/debug-repl)
 [&nbsp;&raquo;lein-cdt](https://github.com/travis/lein-cdt)
 [&nbsp;&raquo;lein-cdt](https://github.com/travis/lein-cdt)
-[&nbsp;&raquo;Dr.+Evil]()
+[&nbsp;&raquo;Dr.+Evil](https://github.com/tebeka/dr-evil)
 [&nbsp;&raquo;Mycroft](http://github.com/relevance/mycroft)
 [&nbsp;&raquo;lambdebug](http://lambdebug.github.com/)
 [&nbsp;&raquo;cdt](http://georgejahad.com/clojure/cdt.html)
@@ -293,8 +293,8 @@ nav_item: open
 [&nbsp;&raquo;difform](http://georgejahad.com/clojure/difform.html)
 [&nbsp;&raquo;clj-stacktrace](https://github.com/mmcgrana/clj-stacktrace)
 [&nbsp;&raquo;LiveRepl](https://github.com/djpowell/liverepl)
-[&nbsp;&raquo;tools.trace]()
-[&nbsp;&raquo;fn.trace]()
+[&nbsp;&raquo;tools.trace](https://github.com/clojure/tools.trace)
+[&nbsp;&raquo;fn.trace](https://github.com/weissjeffm/fn.trace)
 
 ## Redis Clients
 
@@ -361,7 +361,7 @@ nav_item: open
 [&nbsp;&raquo;swank-clj](https://github.com/hugoduncan/swank-clj)
 [&nbsp;&raquo;Ritz](https://github.com/pallet/ritz)
 [&nbsp;&raquo;clooj](https://github.com/arthuredelstein/clooj)
-[&nbsp;&raquo;slimv.vim]()
+[&nbsp;&raquo;slimv.vim](https://github.com/vim-scripts/slimv.vim)
 
 ## MongoDB Clients
 
