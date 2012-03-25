@@ -22,19 +22,24 @@ open("http://www.clojure-toolbox.com/") do |http|
 end
 
 def fetch_project_url(url)
+ begin
   open(url).read.scan(/<a href="(.*)">\1<\/a>/)[0][0]
+ rescue
+   print "An error occurred when fetching #{url}: ",$!, "\n"
+ end
 end
 
 open("http://clojure-libraries.appspot.com/") do |http|
   http.each_line do |line|
     catalog="unknow"
-    line.scan(/<a href="(\/(category|show)\/\d+)">(.*?)<\/a>/).each do |x|
-      if x[1]=="category"
-        catalog=x[2]
+    links=line.scan(/<a href="\/(cat|library)\/(.*?)">/) || []
+    links.each do |x|
+      if x[0]=="cat"
+        catalog=x[1]
         libs[catalog]||=[]
-      elsif x[1]=="show"
-        detail="http://clojure-libraries.appspot.com#{x[0]}"
-        libs[catalog] << Project.new(x[2].sub(/&raquo;&nbsp;/,""),fetch_project_url(detail));
+      elsif x[0]=="library"
+        detail="http://clojure-libraries.appspot.com/library/#{x[1]}"
+        libs[catalog] << Project.new(x[1].sub(/&raquo;&nbsp;/,""),fetch_project_url(detail));
       end
     end
   end
