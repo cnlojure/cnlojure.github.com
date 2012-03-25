@@ -33,6 +33,26 @@ nav_item: open
 [&nbsp;&raquo;Scriptjure](https://github.com/arohner/scriptjure)
 [&nbsp;&raquo;clojurejs](https://github.com/kriyative/clojurejs)
 
+## Concurrency
+
+[&nbsp;&raquo;die-geister](https://github.com/hiredman/die-geister)
+[&nbsp;&raquo;medusa](https://github.com/amitrathore/medusa)
+[&nbsp;&raquo;Avout](http://avout.io/)
+
+## Artificial+Intelligence
+
+[&nbsp;&raquo;Clojush](https://github.com/lspector/Clojush)
+[&nbsp;&raquo;Infer](https://github.com/getwoven/infer)
+[&nbsp;&raquo;alter-ego](http://nakkaya.com/alter-ego.html)
+[&nbsp;&raquo;vision](http://nakkaya.com/vision.html)
+[&nbsp;&raquo;Generalized+Quantifiers](https://github.com/jimtyhurst/generalized-quantifiers)
+[&nbsp;&raquo;Clojure-Powerloom](https://github.com/davelambert/clojure-powerloom)
+[&nbsp;&raquo;cogito](http://liebke.github.com/cogito/)
+[&nbsp;&raquo;Netz](https://github.com/nickewing/netz)
+[&nbsp;&raquo;Gajure](https://github.com/Ejhfast/Gajure)
+[&nbsp;&raquo;fobos_clj](https://github.com/syou6162/fobos_clj)
+[&nbsp;&raquo;cld](https://github.com/dakrone/cld)
+
 ## Template Languages
 
 [&nbsp;&raquo;Enlive](https://github.com/cgrand/enlive)
@@ -51,6 +71,36 @@ nav_item: open
 ## CouchDB Clients
 
 [&nbsp;&raquo;Clutch](https://github.com/ashafa/clutch)
+
+## Utility
+
+[&nbsp;&raquo;Syntax-Rules](https://github.com/qbg/syntax-rules)
+[&nbsp;&raquo;clj-help](https://github.com/budu/clj-help)
+[&nbsp;&raquo;Logos](https://github.com/swannodette/logos)
+[&nbsp;&raquo;Conduit](http://intensivesystems.net/tutorials/conduit-motive.html)
+[&nbsp;&raquo;cache-dot-clj](https://github.com/alienscience/cache-dot-clj)
+[&nbsp;&raquo;dejour](https://github.com/russolsen/dejour)
+[&nbsp;&raquo;Robert+Hooke](https://github.com/technomancy/robert-hooke)
+[&nbsp;&raquo;clj-base64](https://github.com/remvee/clj-base64)
+[&nbsp;&raquo;clansi](https://github.com/ams-clj/clansi)
+[&nbsp;&raquo;Kanshiki+Boom%21](http://dueck.org/kanshiki-boom/)
+[&nbsp;&raquo;clj-native](https://github.com/bagucode/clj-native)
+[&nbsp;&raquo;dgraph](https://github.com/gcv/dgraph)
+[&nbsp;&raquo;Lamina](https://github.com/ztellman/lamina)
+[&nbsp;&raquo;work](https://github.com/getwoven/work)
+[&nbsp;&raquo;clj-bloom](https://github.com/kyleburton/clj-bloom)
+[&nbsp;&raquo;clj-lfsr](https://github.com/kyleburton/clj-lfsr)
+
+## Math
+
+[&nbsp;&raquo;Incanter](http://incanter.org/)
+[&nbsp;&raquo;cantor](http://github.com/ztellman/cantor)
+[&nbsp;&raquo;vector-2d](https://github.com/nakkaya/vector-2d)
+[&nbsp;&raquo;clojure-geohash](https://bitbucket.org/sunng/clojure-geohash)
+
+## Image+Processing
+
+[&nbsp;&raquo;RinzeLight](https://github.com/Serabe/rinzelight)
 
 ## Vim Integration
 
@@ -90,6 +140,45 @@ nav_item: open
 ## Mocking Web Requests
 
 [&nbsp;&raquo;Ring-Mock](https://github.com/weavejester/ring-mock)
+
+## Sound
+
+[&nbsp;&raquo;midi-clj](https://github.com/rosejn/midi-clj)
+[&nbsp;&raquo;osc-clj](https://github.com/rosejn/osc-clj)
+[&nbsp;&raquo;Overtone](http://project-overtone.org/)
+[&nbsp;&raquo;M.A.D+%28Music+as+data%29]()
+[&nbsp;&raquo;clj-vorbis](https://github.com/bagucode/clj-vorbis)
+[&nbsp;&raquo;fughetta](https://github.com/Sebastiansen/fughetta)
+
+## External+APIs
+
+[&nbsp;&raquo;clj-facebook-graph](https://github.com/maxweber/clj-facebook-graph)
+[&nbsp;&raquo;clj-dropbox](http://github.com/aria42/clj-dropbox)
+[&nbsp;&raquo;cljman](https://github.com/polypus74/cljman)
+[&nbsp;&raquo;clj-facebook](https://github.com/rnewman/clj-facebook)
+[&nbsp;&raquo;clj-hoptoad](https://github.com/leadtune/clj-hoptoad)
+[&nbsp;&raquo;clj-yelp](https://github.com/eduardoejp/clj-yelp)
+[&nbsp;&raquo;stockings](https://github.com/fxtlabs/stockings)
+[&nbsp;&raquo;clj-itunes](https://github.com/eduardoejp/clj-itunes)
+[&nbsp;&raquo;twitter-api](https://github.com/adamwynne/twitter-api)
+[&nbsp;&raquo;clj-cnet](https://github.com/eduardoejp/clj-cnet)
+[&nbsp;&raquo;clj-ebay](https://github.com/eduardoejp/clj-ebay)
+[&nbsp;&raquo;clj-groupon](https://github.com/eduardoejp/clj-groupon)
+[&nbsp;&raquo;clj-linkshare](https://github.com/eduardoejp/clj-linkshare)
+[&nbsp;&raquo;clj-nytimes](https://github.com/eduardoejp/clj-nytimes)
+[&nbsp;&raquo;clj-musixmatch](https://github.com/eduardoejp/clj-musixmatch)
+[&nbsp;&raquo;clj-thetvdb](https://github.com/eduardoejp/clj-thetvdb)
+
+## Command+Line+Tools
+
+[&nbsp;&raquo;Pallet](http://pallet.github.com/pallet/)
+[&nbsp;&raquo;Jark](http://icylisper.in/jark)
+[&nbsp;&raquo;clargon](https://github.com/gar3thjon3s/clargon)
+[&nbsp;&raquo;clojopts](https://github.com/amalloy/clojopts)
+[&nbsp;&raquo;pallet-hadoop](https://github.com/pallet/pallet-hadoop)
+[&nbsp;&raquo;clojure-control](https://github.com/killme2008/clojure-control)
+[&nbsp;&raquo;stevedore](https://github.com/pallet/stevedore)
+[&nbsp;&raquo;cd-client](https://github.com/jafingerhut/cd-client)
 
 ## IDE Integration
 
@@ -141,6 +230,28 @@ nav_item: open
 
 [&nbsp;&raquo;borneo](https://github.com/wagjo/borneo)
 
+## Internationalisation
+
+[&nbsp;&raquo;j18n](https://bitbucket.org/kotarak/j18n)
+
+## File+Formats
+
+[&nbsp;&raquo;ArmageDOM](https://github.com/pepijndevos/ArmageDOM)
+[&nbsp;&raquo;Docjure](https://github.com/ative/docjure)
+[&nbsp;&raquo;clj-yaml](https://github.com/lancepantz/clj-yaml)
+[&nbsp;&raquo;csvlib](https://bitbucket.org/tebeka/csvlib/src)
+[&nbsp;&raquo;clj-json](https://github.com/mmcgrana/clj-json)
+[&nbsp;&raquo;clj-plaza](https://github.com/antoniogarrote/clj-plaza)
+[&nbsp;&raquo;Cheshire](https://github.com/dakrone/cheshire)
+[&nbsp;&raquo;Bearable](https://github.com/jhowarth/bearable)
+[&nbsp;&raquo;docjure](https://github.com/ative/docjure)
+[&nbsp;&raquo;clojure-csv](https://github.com/davidsantiago/clojure-csv)
+[&nbsp;&raquo;Deep-Freeze](https://github.com/halgari/deep-freeze)
+[&nbsp;&raquo;clojure.prxml]()
+[&nbsp;&raquo;clj-tika](https://github.com/alexott/clj-tika)
+[&nbsp;&raquo;json-zetta](https://github.com/van-clj/json-zetta)
+[&nbsp;&raquo;data.csv]()
+
 ## WAR File Generation
 
 [&nbsp;&raquo;Leinginen War Plugin](https://github.com/alienscience/leiningen-war)
@@ -173,6 +284,17 @@ nav_item: open
 [&nbsp;&raquo;Mycroft](https://github.com/relevance/mycroft)
 [&nbsp;&raquo;debug-repl](https://github.com/georgejahad/debug-repl)
 [&nbsp;&raquo;lein-cdt](https://github.com/travis/lein-cdt)
+[&nbsp;&raquo;lein-cdt](https://github.com/travis/lein-cdt)
+[&nbsp;&raquo;Dr.+Evil]()
+[&nbsp;&raquo;Mycroft](http://github.com/relevance/mycroft)
+[&nbsp;&raquo;lambdebug](http://lambdebug.github.com/)
+[&nbsp;&raquo;cdt](http://georgejahad.com/clojure/cdt.html)
+[&nbsp;&raquo;deview](https://github.com/brentonashworth/deview)
+[&nbsp;&raquo;difform](http://georgejahad.com/clojure/difform.html)
+[&nbsp;&raquo;clj-stacktrace](https://github.com/mmcgrana/clj-stacktrace)
+[&nbsp;&raquo;LiveRepl](https://github.com/djpowell/liverepl)
+[&nbsp;&raquo;tools.trace]()
+[&nbsp;&raquo;fn.trace]()
 
 ## Redis Clients
 
@@ -218,6 +340,29 @@ nav_item: open
 [&nbsp;&raquo;Gaka](https://github.com/briancarper/gaka)
 [&nbsp;&raquo;cssgen](https://github.com/paraseba/cssgen)
 
+## Parsers
+
+[&nbsp;&raquo;Amotoen](http://github.com/richard-lyman/amotoen)
+[&nbsp;&raquo;Stout](https://github.com/AndreasKostler/Stout)
+[&nbsp;&raquo;dj-peg](https://github.com/bmillare/dj-peg)
+[&nbsp;&raquo;parsley](https://github.com/cgrand/parsley)
+[&nbsp;&raquo;fnparse](https://github.com/John-Poplett/fnparse)
+[&nbsp;&raquo;zetta-parser](https://github.com/van-clj/zetta-parser)
+
+## Editing
+
+[&nbsp;&raquo;swank-clojure](https://github.com/technomancy/swank-clojure)
+[&nbsp;&raquo;Counterclockwise](http://code.google.com/p/counterclockwise/)
+[&nbsp;&raquo;Enclojure](http://www.enclojure.org/)
+[&nbsp;&raquo;La+Clojure](http://plugins.intellij.net/plugin/?id=4050)
+[&nbsp;&raquo;VimClojure](https://bitbucket.org/kotarak/vimclojure)
+[&nbsp;&raquo;align-cljlet](https://github.com/gstamp/align-cljlet)
+[&nbsp;&raquo;Sevenri](https://github.com/ksuzuki/Sevenri)
+[&nbsp;&raquo;swank-clj](https://github.com/hugoduncan/swank-clj)
+[&nbsp;&raquo;Ritz](https://github.com/pallet/ritz)
+[&nbsp;&raquo;clooj](https://github.com/arthuredelstein/clooj)
+[&nbsp;&raquo;slimv.vim]()
+
 ## MongoDB Clients
 
 [&nbsp;&raquo;CongoMongo](https://github.com/somnium/congomongo)
@@ -228,6 +373,18 @@ nav_item: open
 
 [&nbsp;&raquo;crypto-random](https://github.com/weavejester/crypto-random)
 [&nbsp;&raquo;digest](https://bitbucket.org/tebeka/clj-digest/src)
+
+## Security
+
+[&nbsp;&raquo;Clojail](https://github.com/Raynes/clojail)
+[&nbsp;&raquo;clj-sandbox](https://github.com/Licenser/clj-sandbox)
+[&nbsp;&raquo;digest](https://bitbucket.org/tebeka/clj-digest/src)
+[&nbsp;&raquo;clj-digest](https://bitbucket.org/tebeka/clj-digest)
+
+## Batch+Processing
+
+[&nbsp;&raquo;Sisyphus](https://github.com/njoanna/Sisyphus)
+[&nbsp;&raquo;gantry](https://github.com/drsnyder/gantry)
 
 ## Unit Testing
 
@@ -264,6 +421,13 @@ nav_item: open
 
 [&nbsp;&raquo;Infer](https://github.com/getwoven/infer)
 
+## Web+Client+Libraries
+
+[&nbsp;&raquo;clj-http](https://github.com/mmcgrana/clj-http)
+[&nbsp;&raquo;http.async.client]()
+[&nbsp;&raquo;clj-tagsoup](https://github.com/nathell/clj-tagsoup)
+[&nbsp;&raquo;clj-oauth](https://github.com/mattrepl/clj-oauth)
+
 ## SQL Abstraction
 
 [&nbsp;&raquo;Carte](https://github.com/brentonashworth/carte)
@@ -275,6 +439,45 @@ nav_item: open
 ## Network Protocols
 
 [&nbsp;&raquo;Gloss](https://github.com/ztellman/gloss)
+
+## Web+Server+Libraries
+
+[&nbsp;&raquo;clojurejs](https://github.com/kriyative/clojurejs)
+[&nbsp;&raquo;App+Engine+Magic](https://github.com/gcv/appengine-magic)
+[&nbsp;&raquo;Slice](https://github.com/scottjad/slice)
+[&nbsp;&raquo;Hiccup-Bridge](https://github.com/hozumi/hiccup-bridge)
+[&nbsp;&raquo;funkyweb](https://github.com/pmh/funkyweb)
+[&nbsp;&raquo;form-dot-clj](http://github.com/alienscience/form-dot-clj)
+[&nbsp;&raquo;pour](https://github.com/Kaali/pour)
+[&nbsp;&raquo;Conjure](https://github.com/macourtney/Conjure)
+[&nbsp;&raquo;ring](https://github.com/mmcgrana/ring)
+[&nbsp;&raquo;fleet](https://github.com/Flamefork/fleet)
+[&nbsp;&raquo;Sandbar](https://github.com/brentonashworth/sandbar)
+[&nbsp;&raquo;ring-basic-authentication](https://github.com/remvee/ring-basic-authentication)
+[&nbsp;&raquo;Gaka](https://github.com/briancarper/gaka)
+[&nbsp;&raquo;ring-httpcore-adpater](https://github.com/mmcgrana/ring-httpcore-adapter)
+[&nbsp;&raquo;ring-mongrel2-adapter](https://github.com/mikejs/ring-mongrel2-adapter)
+[&nbsp;&raquo;ring-netty-adapter](https://github.com/datskos/ring-netty-adapter)
+[&nbsp;&raquo;let-else](https://github.com/egamble/let-else)
+[&nbsp;&raquo;clojure-options](http://github.com/guv/clojure.options)
+[&nbsp;&raquo;Criterium](https://github.com/hugoduncan/criterium)
+[&nbsp;&raquo;java.jdbc]()
+[&nbsp;&raquo;lein-html5-docs](https://github.com/tsdh/lein-html5-docs)
+[&nbsp;&raquo;frinj](https://github.com/martintrojer/frinj)
+[&nbsp;&raquo;clj-json-rpc](https://github.com/nathell/clj-json-rpc)
+[&nbsp;&raquo;cld](https://github.com/dakrone/cld)
+[&nbsp;&raquo;data.csv]()
+[&nbsp;&raquo;river](https://github.com/roman/river)
+[&nbsp;&raquo;json-zetta](https://github.com/van-clj/json-zetta)
+[&nbsp;&raquo;zetta-parser](https://github.com/van-clj/zetta-parser)
+[&nbsp;&raquo;fnparse](https://github.com/John-Poplett/fnparse)
+[&nbsp;&raquo;parsley](https://github.com/cgrand/parsley)
+[&nbsp;&raquo;ring-clj-params](https://github.com/fogus/ring-clj-params)
+[&nbsp;&raquo;lein-scalac](https://github.com/technomancy/lein-scalac)
+[&nbsp;&raquo;clj-aws-s3](https://github.com/weavejester/clj-aws-s3)
+[&nbsp;&raquo;clojure-contrib-1.3-compat]()
+[&nbsp;&raquo;topoged-hibernate](https://github.com/m0smith/topoged-hibernate)
+[&nbsp;&raquo;Shrink](https://github.com/AlexBaranosky/Shrink)
 
 ## JSON Parsers
 
@@ -288,9 +491,85 @@ nav_item: open
 [&nbsp;&raquo;clj-airbrake](https://github.com/leadtune/clj-airbrake)
 [&nbsp;&raquo;clj-stacktrace](https://github.com/mmcgrana/clj-stacktrace)
 
+## Tools
+
+[&nbsp;&raquo;clojure-refactoring](https://github.com/joodie/clojure-refactoring)
+[&nbsp;&raquo;REPL-y](https://github.com/trptcolin/reply/)
+[&nbsp;&raquo;IClojure](http://www.iclojure.com/)
+[&nbsp;&raquo;gelfino](http://documentup.com/narkisr/gelfino/)
+[&nbsp;&raquo;Criterium](https://github.com/hugoduncan/criterium)
+
+## Testing
+
+[&nbsp;&raquo;Ring-Mock](https://github.com/weavejester/ring-mock)
+[&nbsp;&raquo;Lazytest](https://github.com/stuartsierra/lazytest)
+[&nbsp;&raquo;Faker](https://github.com/paraseba/faker)
+[&nbsp;&raquo;ClojureGiven](https://github.com/ckirkendall/ClojureGiven)
+[&nbsp;&raquo;test-this](https://github.com/paraseba/test-this)
+[&nbsp;&raquo;clj-webdriver](https://github.com/semperos/clj-webdriver)
+[&nbsp;&raquo;ClojureCheck](https://bitbucket.org/kotarak/clojurecheck)
+[&nbsp;&raquo;expectations](https://github.com/jaycfields/expectations)
+[&nbsp;&raquo;shrink](https://github.com/alexbaranosky/shrink)
+[&nbsp;&raquo;Midje](https://github.com/marick/Midje)
+[&nbsp;&raquo;Shrink](https://github.com/AlexBaranosky/Shrink)
+
+## Networking
+
+[&nbsp;&raquo;WabbitMQ](https://github.com/mefesto/wabbitmq)
+[&nbsp;&raquo;Cascalog](https://github.com/nathanmarz/cascalog)
+[&nbsp;&raquo;swarmiji](https://github.com/amitrathore/swarmiji)
+[&nbsp;&raquo;Postal](https://github.com/drewr/postal)
+[&nbsp;&raquo;irclj](https://github.com/Raynes/irclj)
+[&nbsp;&raquo;sexpbot](https://github.com/Raynes/sexpbot)
+[&nbsp;&raquo;Bandalore](https://github.com/cemerick/bandalore)
+[&nbsp;&raquo;rabbitcj](https://github.com/getwoven/rabbitcj)
+[&nbsp;&raquo;Aleph](http://github.com/ztellman/aleph)
+[&nbsp;&raquo;net-eval](http://nakkaya.com/net-eval.html)
+[&nbsp;&raquo;Clj-Mail](https://github.com/MayDaniel/Clj-Mail)
+[&nbsp;&raquo;bunny](http://github.com/icylisper/bunny.git)
+[&nbsp;&raquo;jobim](https://github.com/antoniogarrote/jobim)
+[&nbsp;&raquo;necessary-evil](https://github.com/brehaut/necessary-evil)
+[&nbsp;&raquo;Recon](https://github.com/icylisper/recon)
+[&nbsp;&raquo;clj-soap](https://bitbucket.org/taka2ru/clj-soap)
+
+## IO
+
+[&nbsp;&raquo;Gloss](https://github.com/ztellman/gloss)
+[&nbsp;&raquo;byte-spec](https://github.com/rosejn/byte-spec)
+[&nbsp;&raquo;clj-avro](https://github.com/relaynetwork/clj-avro)
+[&nbsp;&raquo;Clodiuno](http://nakkaya.com/clodiuno.html)
+[&nbsp;&raquo;serial-port](https://github.com/samaaron/serial-port)
+[&nbsp;&raquo;fs](https://github.com/Raynes/fs)
+[&nbsp;&raquo;conch](https://github.com/Raynes/conch)
+[&nbsp;&raquo;Marshal](https://github.com/russellc/Marshal)
+[&nbsp;&raquo;bytebuffer](https://github.com/geoffsalmon/bytebuffer)
+
+## Database
+
+[&nbsp;&raquo;ClojureQL](http://www.clojureql.org/)
+[&nbsp;&raquo;clj-sql](http://github.com/alienscience/clj-sql)
+[&nbsp;&raquo;SQLRat](https://bitbucket.org/kumarshantanu/sqlrat/src)
+[&nbsp;&raquo;clj-dbcp](https://bitbucket.org/kumarshantanu/clj-dbcp/src)
+[&nbsp;&raquo;clj-ldap](https://github.com/alienscience/clj-ldap)
+[&nbsp;&raquo;clutch](https://github.com/ashafa/clutch)
+[&nbsp;&raquo;CongoMongo](https://github.com/somnium/congomongo)
+[&nbsp;&raquo;Hassium](https://github.com/weavejester/hassium)
+[&nbsp;&raquo;Karras](https://github.com/wilkes/karras)
+[&nbsp;&raquo;redis-clojure](https://github.com/ragnard/redis-clojure)
+[&nbsp;&raquo;clj-record](https://github.com/duelinmarkers/clj-record)
+[&nbsp;&raquo;sdb](https://github.com/richhickey/sdb)
+[&nbsp;&raquo;jiraph](https://github.com/ninjudd/jiraph)
+[&nbsp;&raquo;Borneo](https://github.com/wagjo/borneo)
+[&nbsp;&raquo;Rummage](https://github.com/cemerick/rummage)
+[&nbsp;&raquo;Clj-Liquibase](https://bitbucket.org/kumarshantanu/clj-liquibase/src)
+
 ## IRC Servers
 
 [&nbsp;&raquo;Subrosa](https://github.com/danlarkin/subrosa)
+
+## Games
+
+[&nbsp;&raquo;Begame](https://github.com/pepijndevos/Begame/)
 
 ## Clojars
 
@@ -323,6 +602,13 @@ nav_item: open
 [&nbsp;&raquo;Ring-Serve](https://github.com/weavejester/ring-serve)
 [&nbsp;&raquo;lein-ring](https://github.com/weavejester/lein-ring)
 [&nbsp;&raquo;ring-reload-modified](https://github.com/weavejester/ring-reload-modified)
+
+## Documentation
+
+[&nbsp;&raquo;Autodoc](https://github.com/tomfaulhaber/autodoc)
+[&nbsp;&raquo;Marginalia](https://github.com/fogus/marginalia)
+[&nbsp;&raquo;Codox](https://github.com/weavejester/codox)
+[&nbsp;&raquo;lein-html5-docs](https://github.com/tsdh/lein-html5-docs)
 
 ## Web Frameworks
 
@@ -364,10 +650,48 @@ nav_item: open
 [&nbsp;&raquo;Webmine](https://github.com/tol/webmine)
 [&nbsp;&raquo;clj-tagsoup](https://github.com/nathell/clj-tagsoup)
 
+## GUI
+
+[&nbsp;&raquo;Indyvon](https://bitbucket.org/kryshen/indyvon/src)
+[&nbsp;&raquo;seesaw](https://github.com/daveray/seesaw)
+[&nbsp;&raquo;Hafni](https://github.com/odyssomay/Hafni)
+[&nbsp;&raquo;GUIFTW](https://github.com/santamon/GUIFTW)
+[&nbsp;&raquo;clarity](https://github.com/stathissideris/clarity)
+[&nbsp;&raquo;artem](https://github.com/scgilardi/artem)
+
+## Deployment
+
+[&nbsp;&raquo;Crane](https://github.com/getwoven/crane)
+[&nbsp;&raquo;lein-beanstalk](https://github.com/weavejester/lein-beanstalk)
+
+## Build
+
+[&nbsp;&raquo;clojuresque](http://kotka.lighthouseapp.com/projects/45093-clojuresque/overview)
+[&nbsp;&raquo;clojure-maven-plugin](https://github.com/talios/clojure-maven-plugin)
+[&nbsp;&raquo;Cake](https://github.com/ninjudd/cake)
+[&nbsp;&raquo;Leiningen](https://github.com/technomancy/leiningen)
+[&nbsp;&raquo;lein-clojars](https://github.com/ato/lein-clojars)
+[&nbsp;&raquo;lein-search](https://github.com/Licenser/lein-search)
+[&nbsp;&raquo;lein-diagnostics](https://github.com/robwolfe/lein-diagnostics)
+[&nbsp;&raquo;lein-namespace-depends](https://github.com/hugoduncan/lein-namespace-depends)
+[&nbsp;&raquo;Leiningen+war+plugin](https://github.com/alienscience/leiningen-war)
+[&nbsp;&raquo;lein-ring](https://github.com/weavejester/ring-reload-modified)
+[&nbsp;&raquo;Lein-LB](https://bitbucket.org/kumarshantanu/lein-lb/src)
+[&nbsp;&raquo;Lein-daemon](https://github.com/arohner/lein-daemon)
+[&nbsp;&raquo;lein-localrepo](https://github.com/kumarshantanu/lein-localrepo)
+[&nbsp;&raquo;lein-control](https://github.com/sunng87/lein-control)
+[&nbsp;&raquo;lein-repls](https://github.com/franks42/lein-repls)
+[&nbsp;&raquo;lein-scalac](https://github.com/technomancy/lein-scalac)
+
 ## Graphics
 
 [&nbsp;&raquo;Penumbra](https://github.com/ztellman/penumbra)
 [&nbsp;&raquo;clj-processing](https://github.com/rosado/clj-processing)
+[&nbsp;&raquo;clj-processing](https://github.com/rosado/clj-processing)
+[&nbsp;&raquo;Penumbra](http://github.com/ztellman/penumbra)
+[&nbsp;&raquo;clj3D](https://github.com/CharlesStain/clj3D)
+[&nbsp;&raquo;tikkba](https://github.com/pallix/tikkba)
+[&nbsp;&raquo;analemma](https://github.com/liebke/analemma)
 
 ## Build Tools
 
@@ -379,6 +703,11 @@ nav_item: open
 
 [&nbsp;&raquo;Rummage](https://github.com/cemerick/rummage)
 [&nbsp;&raquo;sdb](https://github.com/richhickey/sdb)
+
+## Charting
+
+[&nbsp;&raquo;Lacij](https://github.com/pallix/lacij)
+[&nbsp;&raquo;dorothy](https://github.com/daveray/dorothy)
 
 ## Random Data Generation
 
