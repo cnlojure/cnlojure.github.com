@@ -83,6 +83,7 @@ nav_item: home
 	 user=> (time (dotimes [_ 10000] (last a)))
      "Elapsed time: 301.731 msecs"
 	 user=> (time (dotimes [_ 10000] (peek a)))
+     "Elapsed time: 1.297 msecs"
      user=> (peek a)
      999
      user=> (last a)
