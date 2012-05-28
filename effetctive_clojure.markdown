@@ -6,7 +6,7 @@ nav_item: home
 
 #介绍
 
-本篇文档的主要目的是介绍Clojure语言本身的最佳实践，达到类似<Effetchtive Java>、<Effetctive C++>类似书籍所望达到的目的。
+本篇文档的主要目的是介绍Clojure语言本身的最佳实践
 
 作者:
 
