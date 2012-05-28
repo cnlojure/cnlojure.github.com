@@ -8,6 +8,10 @@ nav_item: home
 
 本篇文档的主要目的是介绍Clojure语言本身的最佳实践，达到类似<Effetchtive Java>、<Effetctive C++>类似书籍所望达到的目的。
 
+作者:
+
+* [Dennis Zhuang](https://github.com/killme2008)
+
 ##第一条 避免使用分数
 
 理由: ratio是Clojure引入的有别于Java的数值类型，分数的分子和分母默认都是用BigInteger，如无特殊要求，不要用Ration，通常来说浮点除法足够满足你的要求。
