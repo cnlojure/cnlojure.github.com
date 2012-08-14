@@ -4,18 +4,19 @@ title: 中国Clojure群组下半年聚会
 nav_item: home
 ---
 
+##简介
+
  * 目的: 促进clojure中国用户之间的交流，促进clojure在国内的应用和推广。
- * 时间: 预计在2012年9月初
- 
- * 地点: 北京
- 
- * 费用: 自费
- 
+ * 时间: 预计在2012年9月初  
+ * 地点: 北京，会议具体地址待定
  * 组织者: 庄晓丹，联系方式 killme2008@gmail.com
- 
- * 议程
- 
-<table class="table-striped table-bordered table-condensed table">
+ * 参加者: 任何对clojure感兴趣的童鞋
+ * 你想演讲? 请联系组织者。
+
+
+##议程
+
+<table class="table-striped">
   <tr>
      <th>标题</th>
 	 <th>简介</th>
