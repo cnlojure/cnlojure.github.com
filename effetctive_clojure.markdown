@@ -114,6 +114,12 @@ nav_item: home
 
 ##第五条 考虑用case替代cond和condp
 
+##第六条，避免创建自己的Boolean对象
+
+#第七条，使用seq函数作用在集合上，用来检测集合是否为空
+
+#第八条，同样，建议使用next替代rest来获取集合的
+
 TODO
 
 
