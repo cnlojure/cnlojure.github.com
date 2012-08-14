@@ -16,7 +16,7 @@ nav_item: home
  
  * 议程
  
-<table border=1>
+<table>
   <tr>
      <th>标题</th>
 	 <th>简介</th>
