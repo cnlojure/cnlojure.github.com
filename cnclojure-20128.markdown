@@ -1,8 +1,3 @@
----
-layout: page
-title: 中国Clojure群组下半年聚会
-nav_item: home
----
 
 ##简介
 
