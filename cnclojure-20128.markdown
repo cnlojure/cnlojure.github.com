@@ -28,6 +28,11 @@ nav_item: home
 	 <td>介绍Clojure编程中的惯用法</td>
 	 <td>庄晓丹，Avos工程师,cnclojure邮件列表的创建和维护者。</td>
   </tr>
+  <tr>
+     <td>Seesaw介绍和使用经验</td>
+	 <td>Seesaw是clojure的一个swing的DSL,这个主题将介绍seesaw及其实际的使用经验。</td>
+	 <td>肖乃同</td>
+  </tr>
 </table>
 
 
